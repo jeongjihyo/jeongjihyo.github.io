@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Oct 2019 08:06:21 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 08:32:38 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2019.04 - 2019.06&lt;/li&gt;
-&lt;li&gt;Role : 화면 기획, 디자인 및 개발&lt;/li&gt;
+&lt;li&gt;Role : 화면 기획, UI 디자인 및 개발&lt;/li&gt;
 &lt;li&gt;Skill : IONIC4, Typescript, Angular, GraphQL, MySQL, HTML, CSS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/colleague_main.jpg&quot; alt=&quot;colleague_main.jpg&quot;&gt;&lt;/p&gt;
@@ -24,7 +24,128 @@
 &lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/web_3.jpg&quot; alt=&quot;web_3.jpg&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;IONIC4 Components 중 ion-action-sheet를 활용해 부서 클릭 시 나타납니다.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[전자서명 임대차 관리 하이브리드 앱]]></title><description><![CDATA[IONIC3와 REST API를 활용해 전자서명으로 임대인과 임차인이 계약을 체결하며 별도의 관리자 또는 임대인이 효율적으로 관리할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/digital-signature-lease-management</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/digital-signature-lease-management</guid><pubDate>Fri, 01 Jun 2018 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2018.06 - 2019.03&lt;/li&gt;
+&lt;li&gt;Role : WBS · 수행 일정 작성, 화면 기획 구성 및 UI 디자인, 개발&lt;/li&gt;
+&lt;li&gt;Skill : IONIC3, Typescript, Angular, REST API, MySQL, HTML, CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;전자서명 임대차관리 Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;바쁜 현대인들을 위해 휴대폰을 통해 전자서명으로 임대계약이 이루어져 임대인이 임대차 관리를 효율적이고 휴대폰으로 쉽게 관리 할 수 있습니다. 또한 계약서를 별도로 보관하지 않아도 휴대폰에 저장되어 있어 손실의 위험이 없으며 임대인과 임차인의 중개수수료 비용이 별도로 들지 않아 계약을 할 수 있습니다. &lt;/p&gt;
+&lt;p&gt;또한 임차인이 직접 집주인에게 연락을 하지 않고 앱을 통해 1:1문의를 하면 별도의 관리자나 집주인이 알람을 통해 확인 후 편리하게 조취를 취할 수 있습니다. 임대인은 별도의 관리자가 작성한 건물관리 체크리스트를 통해 건물관리가 어떻게 진행되고 있는지 확인이 가능합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_1.jpg&quot; alt=&quot;app_1.jpg&quot;&gt;
+&lt;img src=&quot;/media/Where_to_go_seoul/app_2.jpg&quot; alt=&quot;app_2.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
+&lt;br&gt;
+선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_3.jpg&quot; alt=&quot;app_3.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
+&lt;br&gt;
+주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[쇼핑몰 DumbDumb 사용자 / 관리자 용 웹페이지]]></title><description><![CDATA[PHP를 활용한 개인쇼핑몰로 사용자 · 관리자용으로 나뉘어져 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/shopping-mall-dumddumd/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/shopping-mall-dumddumd/</guid><pubDate>Sun, 01 Oct 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2017.10 - 2017.12&lt;/li&gt;
+&lt;li&gt;Skill : PHP, MySQL, Apache Tomcat, Javascript, HTML, CSS, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;쇼핑몰 DumbDumb Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;DumbDumb은 개인쇼핑몰로 사용자용과 관리자용으로 나뉘어져 있습니다. 사용자는 주문 · 결제 등이 가능하며 관리자는 회원관리 · 상품관리 · 주문관리 · 옵션관리 · FAQ관리를 할 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[ 사용자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_1.jpg&quot; alt=&quot;web_1.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_2.jpg&quot; alt=&quot;web_2.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장바구니에 담겨져 있는 상품을 주문 시 카드정보 입력 후
+&lt;br&gt;[ 결제하기 ] 버튼을 누르면 결제가 됩니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_3.jpg&quot; alt=&quot;web_3.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;결제 이후 주문내역 / 배송내역 / 결제내역을 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[ 관리자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_4.jpg&quot; alt=&quot;web_4.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_5.jpg&quot; alt=&quot;web_5.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_6.jpg&quot; alt=&quot;web_6.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_7.jpg&quot; alt=&quot;web_7.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Where to go SEOUL 안드로이드 앱]]></title><description><![CDATA[서울을 방문하는 많은 외국인 관광객에게 관광명소 & 음식점 & 숙박업소의 정보를 제공해 주는 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app</guid><pubDate>Tue, 01 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2017.08 - 2017.08&lt;/li&gt;
+&lt;li&gt;Role : 화면 구성 및 UI 디자인, XML 파싱&lt;/li&gt;
+&lt;li&gt;Skill : Android, Java, Javascript, XML, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Where to go SEOUL Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;서울을 방문하는 많은 외국인 관광객에게 관광명소, 음식점, 숙박업소 정보를 제공하기 위해 TOUR API 3.0 XML 파일을 파싱하여 정보를 불러와 서울에 대해 소개하는앱입니다. &lt;/p&gt;
+&lt;p&gt;청년취업아카데미 개발자 훈련과정에서 4명으로 팀을 이뤄 개발한 프로젝트입니다. 화면의 레이아웃 및 UI 디자인(로고, 버튼, 등)과 공공데이터 TOUR API 3.0 XML을 이용해 받아 온 데이터를 화면에 알맞게 출력하는 부분과 프로젝트의 프레젠테이션 역할을 맡았습니다. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_1.jpg&quot; alt=&quot;app_1.jpg&quot;&gt;
+&lt;img src=&quot;/media/Where_to_go_seoul/app_2.jpg&quot; alt=&quot;app_2.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
+&lt;br&gt;
+선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_3.jpg&quot; alt=&quot;app_3.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
+&lt;br&gt;
+주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[EX]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</guid><pubDate>Wed, 08 Oct 2014 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
 &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
 	&lt;img src=&quot;/media/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot;&gt;
@@ -126,35 +247,4 @@
 &lt;p&gt;Thus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.&lt;/p&gt;
 &lt;p&gt;A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the “first inventor of printing” in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.&lt;/p&gt;
 &lt;p&gt;The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.&lt;/p&gt;
-&lt;p&gt;It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Where to go SEOUL 안드로이드 앱]]></title><description><![CDATA[서울을 방문하는 많은 외국인 관광객에게 관광명소 & 음식점 & 숙박업소의 정보를 제공해 주는 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/the-origins-of-social-stationery-lettering</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/the-origins-of-social-stationery-lettering</guid><pubDate>Tue, 01 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Date : 2017.08 - 2017.08&lt;/li&gt;
-&lt;li&gt;Role : 화면 구성 및 디자인, XML 파싱&lt;/li&gt;
-&lt;li&gt;Skill : Android, Java, Javascript, XML, Photoshop&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Where to go SEOUL Main 화면&lt;/em&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;p&gt;서울을 방문하는 많은 외국인 관광객에게 관광명소, 음식점, 숙박업소 정보를 제공하기 위해 TOUR API 3.0 XML 파일을 파싱하여 정보를 불러와 서울에 대해 소개하는앱입니다. &lt;/p&gt;
-&lt;p&gt;청년취업아카데미 개발자 훈련과정에서 4명으로 팀을 이뤄 개발한 프로젝트입니다. 화면의 레이아웃 및 UI 디자인(로고, 버튼, 등)과 공공데이터 TOUR API 3.0 XML을 이용해 받아 온 데이터를 화면에 알맞게 출력하는 부분과 프로젝트의 프레젠테이션 역할을 맡았습니다. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_1.jpg&quot; alt=&quot;app_1.jpg&quot;&gt;
-&lt;img src=&quot;/media/Where_to_go_seoul/app_2.jpg&quot; alt=&quot;app_2.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
-&lt;br&gt;
-선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_3.jpg&quot; alt=&quot;app_3.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
-&lt;br&gt;
-주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.&lt;/p&gt;</content:encoded></item></channel></rss>
