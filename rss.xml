@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 08:38:26 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 08:40:32 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2019.04 - 2019.06&lt;/li&gt;
 &lt;li&gt;Role : 화면 기획, UI 디자인 및 개발&lt;/li&gt;
@@ -55,7 +55,7 @@
 &lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[쇼핑몰 DumbDumb 사용자 / 관리자 용 웹페이지]]></title><description><![CDATA[PHP를 활용한 개인쇼핑몰로 사용자 · 관리자용으로 나뉘어져 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/shopping-mall-dumddumd/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/shopping-mall-dumddumd/</guid><pubDate>Sun, 01 Oct 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[쇼핑몰 DumbDumb 사용자 / 관리자 용 웹페이지]]></title><description><![CDATA[PHP를 활용한 개인쇼핑몰로 사용자 · 관리자용으로 나뉘어져 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</guid><pubDate>Sun, 01 Oct 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2017.10 - 2017.12&lt;/li&gt;
 &lt;li&gt;Skill : PHP, MySQL, Apache Tomcat, Javascript, HTML, CSS, Photoshop&lt;/li&gt;
@@ -74,7 +74,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_1.jpg&quot; alt=&quot;web_1.jpg&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;DumdDumd의 사용자용 메인화면으로
+&lt;p&gt;DumbDumb의 사용자용 메인화면으로
 &lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
 &lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
