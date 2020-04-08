@@ -1,126 +1,358 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 08:40:32 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Apr 2020 08:48:04 GMT</lastBuildDate><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 Angular6, GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2019.04 - 2019.06&lt;/li&gt;
-&lt;li&gt;Role : 화면 기획, UI 디자인 및 개발&lt;/li&gt;
+&lt;li&gt;Role : 화면 기획, UI/UX 디자인 설계 및 구성, 기능 개발&lt;/li&gt;
 &lt;li&gt;Skill : IONIC4, Typescript, Angular, GraphQL, MySQL, HTML, CSS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/colleague_main.jpg&quot; alt=&quot;colleague_main.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c3aa3e69564298b092fbd7a39cf3b1a4/c0594/colleague_main.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe1O2CwP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAQIRABD/2gAIAQEAAQUCeUlJm7//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAEAAgMAAAAAAAAAAAAAAAABACERIJH/2gAIAQEABj8CMtRs7r//xAAaEAABBQEAAAAAAAAAAAAAAAAAAREhMUEg/9oACAEBAAE/IVU6WsQZ7OJKP//aAAwDAQACAAMAAAAQM8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABExQRAhcf/aAAgBAQABPxAoE21C1LkQj0s3rfGRCYPJ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c3aa3e69564298b092fbd7a39cf3b1a4/01472/colleague_main.webp 240w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/222bd/colleague_main.webp 480w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/620b9/colleague_main.webp 960w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/55fa2/colleague_main.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c3aa3e69564298b092fbd7a39cf3b1a4/3bc27/colleague_main.jpg 240w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/98431/colleague_main.jpg 480w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/b3ee8/colleague_main.jpg 960w,
+/static/c3aa3e69564298b092fbd7a39cf3b1a4/c0594/colleague_main.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c3aa3e69564298b092fbd7a39cf3b1a4/b3ee8/colleague_main.jpg&quot;
+          alt=&quot;colleague_main.jpg&quot;
+          title=&quot;colleague_main.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Colleague 관리자용 웹페이지 Main 화면&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;br&gt;
-&lt;p&gt;IONIC4와 GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원별 인사, 인적사항을 체계적으로 관리할 수 있는 웹페이지입니다. &lt;/p&gt;
-&lt;p&gt;화면의 구성 및 UI 디자인과 각 탭별 기능을 구현했으며 Colleague 관리자용 버전 메뉴얼을 작성했습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/web_1.jpg&quot; alt=&quot;web_1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;IONIC4와 Angular6, GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원별 인사, 인적사항을 체계적으로 관리할 수 있는 웹페이지입니다. &lt;/p&gt;
+&lt;p&gt;화면의 구성 및 UI 디자인과 각 탭별 기능을 구현했으며 Colleague 관리자용 버전 메뉴얼을 작성했습니다.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/52dee/web_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHeJSWMX//EABcQAQEBAQAAAAAAAAAAAAAAAAECEBL/2gAIAQEAAQUC1kXic//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAABAAITH/2gAIAQEABj8CbmH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREQIWFR/9oACAEBAAE/IZwnCLw0BdYCUUR//9oADAMBAAIAAwAAABCjD//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/EKf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAQQDAAAAAAAAAAAAAAABABExQZEhUWH/2gAIAQEAAT8QRWx4zAmGoMWahZFR5bdsAgoBQJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/01472/web_1.webp 240w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/222bd/web_1.webp 480w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/620b9/web_1.webp 960w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/28063/web_1.webp 1440w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/b8f60/web_1.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/3bc27/web_1.jpg 240w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/98431/web_1.jpg 480w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/b3ee8/web_1.jpg 960w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/b97fe/web_1.jpg 1440w,
+/static/b29247ed4db6ec4ee0879d38d12060c2/52dee/web_1.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/b3ee8/web_1.jpg&quot;
+          alt=&quot;web_1.jpg&quot;
+          title=&quot;web_1.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;부서관리 / 직원관리 / 결제 / My 네가지 탭으로 나뉘어져 있습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/web_2.jpg&quot; alt=&quot;web_2.jpg&quot;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/24c9b2fe0603483465d9f6507107b67c/52dee/web_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHeFWBhIv8A/8QAGRABAAIDAAAAAAAAAAAAAAAAAQACAxAR/9oACAEBAAEFAt5FJR7Wf//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwF0f//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAABABEf/aAAgBAQAGPwJmP//EABoQAQACAwEAAAAAAAAAAAAAAAEAERAxUWH/2gAIAQEAAT8halHko5BbIgLvH//aAAwDAQACAAMAAAAQOA//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QSB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCn/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAEFFhgZH/2gAIAQEAAT8QAlD3jozxvmYoK9XIfVazj//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/24c9b2fe0603483465d9f6507107b67c/01472/web_2.webp 240w,
+/static/24c9b2fe0603483465d9f6507107b67c/222bd/web_2.webp 480w,
+/static/24c9b2fe0603483465d9f6507107b67c/620b9/web_2.webp 960w,
+/static/24c9b2fe0603483465d9f6507107b67c/28063/web_2.webp 1440w,
+/static/24c9b2fe0603483465d9f6507107b67c/b8f60/web_2.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/24c9b2fe0603483465d9f6507107b67c/3bc27/web_2.jpg 240w,
+/static/24c9b2fe0603483465d9f6507107b67c/98431/web_2.jpg 480w,
+/static/24c9b2fe0603483465d9f6507107b67c/b3ee8/web_2.jpg 960w,
+/static/24c9b2fe0603483465d9f6507107b67c/b97fe/web_2.jpg 1440w,
+/static/24c9b2fe0603483465d9f6507107b67c/52dee/web_2.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/24c9b2fe0603483465d9f6507107b67c/b3ee8/web_2.jpg&quot;
+          alt=&quot;web_2.jpg&quot;
+          title=&quot;web_2.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;카드등록 후 결제시 등록된 카드로 결제가 됩니다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Colleague_Admin_Webpage/web_3.jpg&quot; alt=&quot;web_3.jpg&quot;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/52dee/web_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAezY0CQ//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECEgMx/9oACAEBAAEFAt2xvojdC9qnSP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAAQITER/9oACAEBAAY/AtW11cf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABARITH/2gAIAQEAAT8hEAJYDqSvwR6TIPSv/9oADAMBAAIAAwAAABBgz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQADAAAAAAAAAAAAAAERACFRYZH/2gAIAQEAAT8QcqOBDHhSwUN7nwzeUSj4waUaEDuk4b//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/01472/web_3.webp 240w,
+/static/b2031e425de12c4de3e0d87eedf9d494/222bd/web_3.webp 480w,
+/static/b2031e425de12c4de3e0d87eedf9d494/620b9/web_3.webp 960w,
+/static/b2031e425de12c4de3e0d87eedf9d494/28063/web_3.webp 1440w,
+/static/b2031e425de12c4de3e0d87eedf9d494/b8f60/web_3.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/3bc27/web_3.jpg 240w,
+/static/b2031e425de12c4de3e0d87eedf9d494/98431/web_3.jpg 480w,
+/static/b2031e425de12c4de3e0d87eedf9d494/b3ee8/web_3.jpg 960w,
+/static/b2031e425de12c4de3e0d87eedf9d494/b97fe/web_3.jpg 1440w,
+/static/b2031e425de12c4de3e0d87eedf9d494/52dee/web_3.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/b3ee8/web_3.jpg&quot;
+          alt=&quot;web_3.jpg&quot;
+          title=&quot;web_3.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;IONIC4 Components 중 ion-action-sheet를 활용해 부서 클릭 시 나타납니다.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[전자서명 임대차 관리 하이브리드 앱]]></title><description><![CDATA[IONIC3와 REST API를 활용해 전자서명으로 임대인과 임차인이 계약을 체결하며 별도의 관리자 또는 임대인이 효율적으로 관리할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/digital-signature-lease-management</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/digital-signature-lease-management</guid><pubDate>Fri, 01 Jun 2018 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Date : 2018.06 - 2019.03&lt;/li&gt;
-&lt;li&gt;Role : WBS · 수행 일정 작성, 화면 기획 구성 및 UI 디자인, 개발&lt;/li&gt;
-&lt;li&gt;Skill : IONIC3, Typescript, Angular, REST API, MySQL, HTML, CSS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;전자서명 임대차관리 Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/download/amdin_manual.pdf&quot;&gt; &gt; Colleague 근태관리 관리자 사용설명서&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[전자서명 임대차 관리 하이브리드 앱]]></title><description><![CDATA[IONIC3와 Angular5, REST API를 활용해 전자서명으로 임대인과 임차인이 계약을 체결하며 별도의 관리자 또는 임대인이 효율적으로 관리할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/digital-signature-lease-management/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/digital-signature-lease-management/</guid><pubDate>Tue, 01 May 2018 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2018.05 - 2019.03&lt;/li&gt;
+&lt;li&gt;Role : WBS · 수행 일정 작성, 화면 기획 구성 및 UI/UX 디자인 설계 및 구성, 기능 개발&lt;/li&gt;
+&lt;li&gt;Skill : IONIC3, Angular5, Typescript, REST API, MySQL, HTML, CSS, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6d92a7fd60678f42250063cdd5aa1eb2/c0594/sign_main.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABfMTNYTqL/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAQQMTL/2gAIAQEAAQUCFNQrZ//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPwF0n//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAgEBPwERf//EABYQAQEBAAAAAAAAAAAAAAAAAAIQAP/aAAgBAQAGPwLKqf/EABkQAAIDAQAAAAAAAAAAAAAAAAABEDGhsf/aAAgBAQABPyF0zAodHPH/2gAMAwEAAgADAAAAEHwP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARAhcf/aAAgBAwEBPxAbav/EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxAqX//EAB0QAQAABgMAAAAAAAAAAAAAAAEAEBEhQaExcbH/2gAIAQEAAT8Q1mHlWrN81ZcnUanpl//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6d92a7fd60678f42250063cdd5aa1eb2/01472/sign_main.webp 240w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/222bd/sign_main.webp 480w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/620b9/sign_main.webp 960w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/55fa2/sign_main.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6d92a7fd60678f42250063cdd5aa1eb2/3bc27/sign_main.jpg 240w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/98431/sign_main.jpg 480w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/b3ee8/sign_main.jpg 960w,
+/static/6d92a7fd60678f42250063cdd5aa1eb2/c0594/sign_main.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/6d92a7fd60678f42250063cdd5aa1eb2/b3ee8/sign_main.jpg&quot;
+          alt=&quot;sign_main.jpg&quot;
+          title=&quot;sign_main.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;전자서명 임대차관리 Loding 화면&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;바쁜 현대인들을 위해 휴대폰을 통해 전자서명으로 임대계약이 이루어져 임대인이 임대차 관리를 효율적이고 휴대폰으로 쉽게 관리 할 수 있습니다. 또한 계약서를 별도로 보관하지 않아도 휴대폰에 저장되어 있어 손실의 위험이 없으며 임대인과 임차인의 중개수수료 비용이 별도로 들지 않아 계약을 할 수 있습니다. &lt;/p&gt;
-&lt;p&gt;또한 임차인이 직접 집주인에게 연락을 하지 않고 앱을 통해 1:1문의를 하면 별도의 관리자나 집주인이 알람을 통해 확인 후 편리하게 조취를 취할 수 있습니다. 임대인은 별도의 관리자가 작성한 건물관리 체크리스트를 통해 건물관리가 어떻게 진행되고 있는지 확인이 가능합니다.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_1.jpg&quot; alt=&quot;app_1.jpg&quot;&gt;
-&lt;img src=&quot;/media/Where_to_go_seoul/app_2.jpg&quot; alt=&quot;app_2.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;또한 임차인이 직접 집주인에게 연락을 하지 않고 앱을 통해 1:1문의를 하면 별도의 관리자나 집주인이 알람을 통해 확인 후 편리하게 조취를 취할 수 있습니다. 임대인은 별도의 관리자가 작성한 건물관리 체크리스트를 통해 건물관리가 어떻게 진행되고 있는지 확인이 가능합니다.
+&lt;br&gt;&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a135e74f66cd710692c343c1dae42ca3/c0594/sign_phone_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd9TZioA/8QAGBAAAgMAAAAAAAAAAAAAAAAAADECAxD/2gAIAQEAAQUCIPKmf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAAAAgMf/aAAgBAQAGPwIi/wD/xAAbEAABBAMAAAAAAAAAAAAAAAABABARMSFRcf/aAAgBAQABPyE0UAGEJGoY0rON/9oADAMBAAIAAwAAABAwD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAAAGAwAAAAAAAAAAAAAAAAABEBEhoTFx0f/aAAgBAQABPxCsDc1MNpupk0KpP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a135e74f66cd710692c343c1dae42ca3/01472/sign_phone_1.webp 240w,
+/static/a135e74f66cd710692c343c1dae42ca3/222bd/sign_phone_1.webp 480w,
+/static/a135e74f66cd710692c343c1dae42ca3/620b9/sign_phone_1.webp 960w,
+/static/a135e74f66cd710692c343c1dae42ca3/55fa2/sign_phone_1.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a135e74f66cd710692c343c1dae42ca3/3bc27/sign_phone_1.jpg 240w,
+/static/a135e74f66cd710692c343c1dae42ca3/98431/sign_phone_1.jpg 480w,
+/static/a135e74f66cd710692c343c1dae42ca3/b3ee8/sign_phone_1.jpg 960w,
+/static/a135e74f66cd710692c343c1dae42ca3/c0594/sign_phone_1.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/a135e74f66cd710692c343c1dae42ca3/b3ee8/sign_phone_1.jpg&quot;
+          alt=&quot;sign_phone_1.jpg&quot;
+          title=&quot;sign_phone_1.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
+&lt;p&gt;메인화면으로 소개 / 검색 / 공지사항 / 로그인 탭으로 나뉘어져 있어
 &lt;br&gt;
-선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_3.jpg&quot; alt=&quot;app_3.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
-&lt;br&gt;
-주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[쇼핑몰 DumbDumb 사용자 / 관리자 용 웹페이지]]></title><description><![CDATA[PHP를 활용한 개인쇼핑몰로 사용자 · 관리자용으로 나뉘어져 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</guid><pubDate>Sun, 01 Oct 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+비회원인 경우 소개, 검색, 공지사항만 확인 할 수 있으며 로그인 후 계약할 방을 선택한 후 임대계약서 작성과 전자서명 입력을 완료 후 진행할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Where to go SEOUL 안드로이드 앱]]></title><description><![CDATA[서울을 방문하는 많은 외국인 관광객에게 관광명소 & 음식점 & 숙박업소의 정보를 제공해 주는 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app/</guid><pubDate>Mon, 01 Aug 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;Date : 2017.10 - 2017.12&lt;/li&gt;
-&lt;li&gt;Skill : PHP, MySQL, Apache Tomcat, Javascript, HTML, CSS, Photoshop&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;쇼핑몰 DumbDumb Main 화면&lt;/em&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;p&gt;DumbDumb은 개인쇼핑몰로 사용자용과 관리자용으로 나뉘어져 있습니다. 사용자는 주문 · 결제 등이 가능하며 관리자는 회원관리 · 상품관리 · 주문관리 · 옵션관리 · FAQ관리를 할 수 있습니다.&lt;/p&gt;
-&lt;br&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;[ 사용자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_1.jpg&quot; alt=&quot;web_1.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DumbDumb의 사용자용 메인화면으로
-&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
-&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_2.jpg&quot; alt=&quot;web_2.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장바구니에 담겨져 있는 상품을 주문 시 카드정보 입력 후
-&lt;br&gt;[ 결제하기 ] 버튼을 누르면 결제가 됩니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_3.jpg&quot; alt=&quot;web_3.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;결제 이후 주문내역 / 배송내역 / 결제내역을 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;br&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;[ 관리자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_4.jpg&quot; alt=&quot;web_4.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DumdDumd의 사용자용 메인화면으로
-&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
-&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_5.jpg&quot; alt=&quot;web_5.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DumdDumd의 사용자용 메인화면으로
-&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
-&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_6.jpg&quot; alt=&quot;web_6.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DumdDumd의 사용자용 메인화면으로
-&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
-&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Shopping_Mall_DumbDumb/web_7.jpg&quot; alt=&quot;web_7.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DumdDumd의 사용자용 메인화면으로
-&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
-&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Where to go SEOUL 안드로이드 앱]]></title><description><![CDATA[서울을 방문하는 많은 외국인 관광객에게 관광명소 & 음식점 & 숙박업소의 정보를 제공해 주는 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/where-to-go-seoul-android-app</guid><pubDate>Tue, 01 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Date : 2017.08 - 2017.08&lt;/li&gt;
-&lt;li&gt;Role : 화면 구성 및 UI 디자인, XML 파싱&lt;/li&gt;
+&lt;li&gt;Date : 2016.07 - 2016.08&lt;/li&gt;
+&lt;li&gt;Role : 화면 구성 및 UI/UX 디자인, XML 파싱&lt;/li&gt;
 &lt;li&gt;Skill : Android, Java, Javascript, XML, Photoshop&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/main.jpg&quot; alt=&quot;main.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c6cd28e62c70b21c937fed74598c8683/c0594/main.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAF8RsYaqP/EABoQAAEFAQAAAAAAAAAAAAAAADIAAQQFEDH/2gAIAQEAAQUCfleWQCX/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAACECEAEf/aAAgBAQAGPwLHexmv/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQAQMVERQbHB/9oACAEBAAE/IZEZNE3m2MLl9b//2gAMAwEAAgADAAAAECAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBAAAgICAwAAAAAAAAAAAAAAAREAECFxMaGx/9oACAEBAAE/EMNBjXN2gmhdOTU6vun/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c6cd28e62c70b21c937fed74598c8683/01472/main.webp 240w,
+/static/c6cd28e62c70b21c937fed74598c8683/222bd/main.webp 480w,
+/static/c6cd28e62c70b21c937fed74598c8683/620b9/main.webp 960w,
+/static/c6cd28e62c70b21c937fed74598c8683/55fa2/main.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c6cd28e62c70b21c937fed74598c8683/3bc27/main.jpg 240w,
+/static/c6cd28e62c70b21c937fed74598c8683/98431/main.jpg 480w,
+/static/c6cd28e62c70b21c937fed74598c8683/b3ee8/main.jpg 960w,
+/static/c6cd28e62c70b21c937fed74598c8683/c0594/main.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c6cd28e62c70b21c937fed74598c8683/b3ee8/main.jpg&quot;
+          alt=&quot;main.jpg&quot;
+          title=&quot;main.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Where to go SEOUL Main 화면&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
@@ -128,123 +360,1778 @@
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;서울을 방문하는 많은 외국인 관광객에게 관광명소, 음식점, 숙박업소 정보를 제공하기 위해 TOUR API 3.0 XML 파일을 파싱하여 정보를 불러와 서울에 대해 소개하는앱입니다. &lt;/p&gt;
-&lt;p&gt;청년취업아카데미 개발자 훈련과정에서 4명으로 팀을 이뤄 개발한 프로젝트입니다. 화면의 레이아웃 및 UI 디자인(로고, 버튼, 등)과 공공데이터 TOUR API 3.0 XML을 이용해 받아 온 데이터를 화면에 알맞게 출력하는 부분과 프로젝트의 프레젠테이션 역할을 맡았습니다. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_1.jpg&quot; alt=&quot;app_1.jpg&quot;&gt;
-&lt;img src=&quot;/media/Where_to_go_seoul/app_2.jpg&quot; alt=&quot;app_2.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
-&lt;br&gt;
-선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_3.jpg&quot; alt=&quot;app_3.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
-&lt;br&gt;
-주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Where_to_go_seoul/app_4.jpg&quot; alt=&quot;app_4.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[EX]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/the-birth-of-movable-type/</guid><pubDate>Wed, 08 Oct 2014 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
-&lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
-	&lt;img src=&quot;/media/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot;&gt;
-	&lt;figcaption&gt;Johannes Gutenberg&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg’s method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.&lt;/p&gt;
-&lt;p&gt;In Renaissance Europe, the arrival of mechanical movable type printing introduced the era of mass communication which permanently altered the structure of society. The relatively unrestricted circulation of information — including revolutionary ideas — transcended borders, captured the masses in the Reformation and threatened the power of political and religious authorities; the sharp increase in literacy broke the monopoly of the literate elite on education and learning and bolstered the emerging middle class. Across Europe, the increasing cultural self-awareness of its people led to the rise of proto-nationalism, accelerated by the flowering of the European vernacular languages to the detriment of Latin’s status as lingua franca. In the 19th century, the replacement of the hand-operated Gutenberg-style press by steam-powered rotary presses allowed printing on an industrial scale, while Western-style printing was adopted all over the world, becoming practically the sole medium for modern bulk printing.&lt;/p&gt;
-&lt;p&gt;The use of movable type was a marked improvement on the handwritten manuscript, which was the existing method of book production in Europe, and upon woodblock printing, and revolutionized European book-making. Gutenberg’s printing technology spread rapidly throughout Europe and later the world.&lt;/p&gt;
-&lt;p&gt;His major work, the Gutenberg Bible (also known as the 42-line Bible), has been acclaimed for its high aesthetic and technical quality.&lt;/p&gt;
-&lt;h2 id=&quot;printing-press&quot;&gt;&lt;a href=&quot;#printing-press&quot; aria-label=&quot;printing press permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Printing Press&lt;/h2&gt;
-&lt;p&gt;Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.&lt;/p&gt;
-&lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
-	&lt;img src=&quot;/media/printing-press.jpg&quot; alt=&quot;Early Printing Press&quot;&gt;
-	&lt;figcaption&gt;Early wooden printing press as depicted in 1568.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Until at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.&lt;/p&gt;
-&lt;p&gt;By 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Future pope Pius II in a letter to Cardinal Carvajal, March 1455&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;Gutenberg’s workshop was set up at Hof Humbrecht, a property belonging to a distant relative. It is not clear when Gutenberg conceived the Bible project, but for this he borrowed another 800 guilders from Fust, and work commenced in 1452. At the same time, the press was also printing other, more lucrative texts (possibly Latin grammars). There is also some speculation that there may have been two presses, one for the pedestrian texts, and one for the Bible. One of the profit-making enterprises of the new press was the printing of thousands of indulgences for the church, documented from 1454–55.&lt;/p&gt;
-&lt;p&gt;In 1455 Gutenberg completed his 42-line Bible, known as the Gutenberg Bible. About 180 copies were printed, most on paper and some on vellum.&lt;/p&gt;
-&lt;h2 id=&quot;court-case&quot;&gt;&lt;a href=&quot;#court-case&quot; aria-label=&quot;court case permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Court Case&lt;/h2&gt;
-&lt;p&gt;Some time in 1456, there was a dispute between Gutenberg and Fust, and Fust demanded his money back, accusing Gutenberg of misusing the funds. Meanwhile the expenses of the Bible project had proliferated, and Gutenberg’s debt now exceeded 20,000 guilders. Fust sued at the archbishop’s court. A November 1455 legal document records that there was a partnership for a “project of the books,” the funds for which Gutenberg had used for other purposes, according to Fust. The court decided in favor of Fust, giving him control over the Bible printing workshop and half of all printed Bibles.&lt;/p&gt;
-&lt;p&gt;Thus Gutenberg was effectively bankrupt, but it appears he retained (or re-started) a small printing shop, and participated in the printing of a Bible in the town of Bamberg around 1459, for which he seems at least to have supplied the type. But since his printed books never carry his name or a date, it is difficult to be certain, and there is consequently a considerable scholarly debate on this subject. It is also possible that the large Catholicon dictionary, 300 copies of 754 pages, printed in Mainz in 1460, may have been executed in his workshop.&lt;/p&gt;
-&lt;p&gt;Meanwhile, the Fust–Schöffer shop was the first in Europe to bring out a book with the printer’s name and date, the Mainz Psalter of August 1457, and while proudly proclaiming the mechanical process by which it had been produced, it made no mention of Gutenberg.&lt;/p&gt;
-&lt;h2 id=&quot;later-life&quot;&gt;&lt;a href=&quot;#later-life&quot; aria-label=&quot;later life permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Later Life&lt;/h2&gt;
-&lt;p&gt;In 1462, during a conflict between two archbishops, Mainz was sacked by archbishop Adolph von Nassau, and Gutenberg was exiled. An old man by now, he moved to Eltville where he may have initiated and supervised a new printing press belonging to the brothers Bechtermünze.&lt;/p&gt;
-&lt;p&gt;In January 1465, Gutenberg’s achievements were recognized and he was given the title Hofmann (gentleman of the court) by von Nassau. This honor included a stipend, an annual court outfit, as well as 2,180 litres of grain and 2,000 litres of wine tax-free. It is believed he may have moved back to Mainz around this time, but this is not certain.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Gutenberg died in 1468 and was buried in the Franciscan church at Mainz, his contributions largely unknown. This church and the cemetery were later destroyed, and Gutenberg’s grave is now lost.&lt;/p&gt;
-&lt;p&gt;In 1504, he was mentioned as the inventor of typography in a book by Professor Ivo Wittig. It was not until 1567 that the first portrait of Gutenberg, almost certainly an imaginary reconstruction, appeared in Heinrich Pantaleon’s biography of famous Germans.&lt;/p&gt;
-&lt;h2 id=&quot;printing-method-with-movable-type&quot;&gt;&lt;a href=&quot;#printing-method-with-movable-type&quot; aria-label=&quot;printing method with movable type permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Printing Method With Movable Type&lt;/h2&gt;
-&lt;p&gt;Gutenberg’s early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.&lt;/p&gt;
+&lt;p&gt;청년취업아카데미 개발자 훈련과정에서 4명으로 팀을 이뤄 개발한 프로젝트입니다. 화면의 레이아웃 및 UI 디자인(로고, 버튼, 등)과 공공데이터 TOUR API 3.0 XML을 이용해 받아 온 데이터를 화면에 알맞게 출력하는 부분과 프로젝트의 프레젠테이션 역할을 맡았습니다.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bd0272909c25e194b94dc89edc338274/ee10b/movable-type.jpg&quot;
+    href=&quot;/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/52dee/app_1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.43356643356644%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAIAQEAAQUC8tkNJ7x//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAETFR/9oACAEBAAY/AidlLOv/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhUUH/2gAIAQEAAT8hGrOMO3FDOPkxyVDQzBzksaLuxEKn/9oADAMBAAIAAwAAABDQD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFB4WGR8P/aAAgBAQABPxBGghtORln24lVU05k694Azx6uOmCkYRJ7fOW7gELT9vAiNOf/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABQkM2qj//xAAZEAACAwEAAAAAAAAAAAAAAAADMwEEETH/2gAIAQEAAQUCutNGwFV1xuBV/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAECAyEicUFRcv/aAAgBAQAGPwJZSVuGU8pLDshoWin4RDR//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITFRcaH/2gAIAQEAAT8hSeQwErxB2m62xEGonin/2gAMAwEAAgADAAAAEGPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFRQaHw/9oACAEBAAE/ENoQdJt8jY5a6XvL1gou0LXHYpEzU+swYoHs9Z+Ryf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/bd0272909c25e194b94dc89edc338274/01472/movable-type.webp 240w,
-/static/bd0272909c25e194b94dc89edc338274/222bd/movable-type.webp 480w,
-/static/bd0272909c25e194b94dc89edc338274/620b9/movable-type.webp 960w,
-/static/bd0272909c25e194b94dc89edc338274/28063/movable-type.webp 1440w,
-/static/bd0272909c25e194b94dc89edc338274/34ef4/movable-type.webp 1920w,
-/static/bd0272909c25e194b94dc89edc338274/839a3/movable-type.webp 2288w&quot;
+          srcset=&quot;/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/01472/app_1.webp 240w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/222bd/app_1.webp 480w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/620b9/app_1.webp 960w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/28063/app_1.webp 1440w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/b8f60/app_1.webp 1674w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/bd0272909c25e194b94dc89edc338274/3bc27/movable-type.jpg 240w,
-/static/bd0272909c25e194b94dc89edc338274/98431/movable-type.jpg 480w,
-/static/bd0272909c25e194b94dc89edc338274/b3ee8/movable-type.jpg 960w,
-/static/bd0272909c25e194b94dc89edc338274/b97fe/movable-type.jpg 1440w,
-/static/bd0272909c25e194b94dc89edc338274/fb329/movable-type.jpg 1920w,
-/static/bd0272909c25e194b94dc89edc338274/ee10b/movable-type.jpg 2288w&quot;
+          srcset=&quot;/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/3bc27/app_1.jpg 240w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/98431/app_1.jpg 480w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/b3ee8/app_1.jpg 960w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/b97fe/app_1.jpg 1440w,
+/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/52dee/app_1.jpg 1674w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/bd0272909c25e194b94dc89edc338274/b3ee8/movable-type.jpg&quot;
-          alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
-          title=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
+          src=&quot;/static/c3b59239b3a4f6a0cb1ab34d6ac1becb/b3ee8/app_1.jpg&quot;
+          alt=&quot;app_1.jpg&quot;
+          title=&quot;app_1.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/26475464f33131f0ff1007d1732dd143/52dee/app_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABQlE2qj//xAAZEAACAwEAAAAAAAAAAAAAAAABAwQRMzH/2gAIAQEAAQUCmC2uFhOMzZ3EY//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAEDBAMAAAAAAAAAAAAAAAABAgMhMkFxInKB/9oACAEBAAY/ArlSmFI+TrEyM0eEfQZo/8QAGxAAAQUBAQAAAAAAAAAAAAAAAAERITFRkaH/2gAIAQEAAT8haeaFRsLmxVjKiYGDL1PFP//aAAwDAQACAAMAAAAQ0w//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABACERMVFhQaHw/9oACAEBAAE/ENxYaUbbxKVj7g2beXuHHdQytcwlU8T2zchTt5ZT7Kn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/26475464f33131f0ff1007d1732dd143/01472/app_2.webp 240w,
+/static/26475464f33131f0ff1007d1732dd143/222bd/app_2.webp 480w,
+/static/26475464f33131f0ff1007d1732dd143/620b9/app_2.webp 960w,
+/static/26475464f33131f0ff1007d1732dd143/28063/app_2.webp 1440w,
+/static/26475464f33131f0ff1007d1732dd143/b8f60/app_2.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/26475464f33131f0ff1007d1732dd143/3bc27/app_2.jpg 240w,
+/static/26475464f33131f0ff1007d1732dd143/98431/app_2.jpg 480w,
+/static/26475464f33131f0ff1007d1732dd143/b3ee8/app_2.jpg 960w,
+/static/26475464f33131f0ff1007d1732dd143/b97fe/app_2.jpg 1440w,
+/static/26475464f33131f0ff1007d1732dd143/52dee/app_2.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/26475464f33131f0ff1007d1732dd143/b3ee8/app_2.jpg&quot;
+          alt=&quot;app_2.jpg&quot;
+          title=&quot;app_2.jpg&quot;
           loading=&quot;lazy&quot;
         /&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Movable metal type, and composing stick, descended from Gutenberg’s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Gutenberg’s technique of making movable type remains unclear. In the following decades, punches and copper matrices became standardized in the rapidly disseminating printing presses across Europe. Whether Gutenberg used this sophisticated technique or a somewhat primitive version has been the subject of considerable debate.&lt;/p&gt;
-&lt;p&gt;In the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a matrix. This is then placed into a hand-held mould and a piece of type, or “sort”, is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type-cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of “movable type”.&lt;/p&gt;
-&lt;p&gt;The invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg’s process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variations due to miscasting and inking. However, the type used in Gutenberg’s earliest work shows other variations.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Johannes Gutenberg&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;In 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text. The irregularities in Gutenberg’s type, particularly in simple characters such as the hyphen, suggested that the variations could not have come from either ink smear or from wear and damage on the pieces of metal on the types themselves. While some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method may have involved impressing simple shapes to create alphabets in “cuneiform” style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.&lt;/p&gt;
-&lt;p&gt;Thus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.&lt;/p&gt;
-&lt;p&gt;A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the “first inventor of printing” in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.&lt;/p&gt;
-&lt;p&gt;The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.&lt;/p&gt;
-&lt;p&gt;It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;메인화면에서 한국어 / 영어 / 일본어 / 중국어 버전으로 나뉘어져 있어
+&lt;br&gt;
+선택한 언어로 정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/72a1f059d2e61a424fbb480829bb22ee/52dee/app_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFc7sRUMK//xAAbEAACAgMBAAAAAAAAAAAAAAABAwITAAQSEf/aAAgBAQABBQJjl2WxzXZ1GQFngxAHH//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABITEREkFRgf/aAAgBAQAGPwJrV3ezIy/WN1PY4VlIrk//xAAdEAEAAgEFAQAAAAAAAAAAAAABABFBIVFhgaGx/9oACAEBAAE/IRBvsMCa1qwlfso4dizgnMRiFT8JcaOk/9oADAMBAAIAAwAAABB4z//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCI/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFRYXHB/9oACAEBAAE/EBnlqFltq4+CVwA33SUoFwFLyLcWr6l1nwlgqRy0OE//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/72a1f059d2e61a424fbb480829bb22ee/01472/app_3.webp 240w,
+/static/72a1f059d2e61a424fbb480829bb22ee/222bd/app_3.webp 480w,
+/static/72a1f059d2e61a424fbb480829bb22ee/620b9/app_3.webp 960w,
+/static/72a1f059d2e61a424fbb480829bb22ee/28063/app_3.webp 1440w,
+/static/72a1f059d2e61a424fbb480829bb22ee/b8f60/app_3.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/72a1f059d2e61a424fbb480829bb22ee/3bc27/app_3.jpg 240w,
+/static/72a1f059d2e61a424fbb480829bb22ee/98431/app_3.jpg 480w,
+/static/72a1f059d2e61a424fbb480829bb22ee/b3ee8/app_3.jpg 960w,
+/static/72a1f059d2e61a424fbb480829bb22ee/b97fe/app_3.jpg 1440w,
+/static/72a1f059d2e61a424fbb480829bb22ee/52dee/app_3.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/72a1f059d2e61a424fbb480829bb22ee/b3ee8/app_3.jpg&quot;
+          alt=&quot;app_3.jpg&quot;
+          title=&quot;app_3.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;관광명소 / 음식점 / 숙박업소 탭 별로
+&lt;br&gt;
+주소 및 전화번호 기본정보를 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b64e7eb2212d85c85a31e1cdcd356ba0/52dee/app_4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAb2Gk6Kwr//EABoQAAICAwAAAAAAAAAAAAAAAAECAAMEITH/2gAIAQEAAQUCPEUAyzVeM7NZP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAEQAAIhQXH/2gAIAQEABj8CLtyZOl//xAAaEAEAAwADAAAAAAAAAAAAAAABABARIVFh/9oACAEBAAE/ITpeTdnVNQcIo9HSn//aAAwDAQACAAMAAAAQOA//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCH/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/EFR//8QAGxABAAICAwAAAAAAAAAAAAAAAQARECExQXH/2gAIAQEAAT8QJzhRH9t2HeFPUQnTUFMm0+mP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b64e7eb2212d85c85a31e1cdcd356ba0/01472/app_4.webp 240w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/222bd/app_4.webp 480w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/620b9/app_4.webp 960w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/28063/app_4.webp 1440w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/b8f60/app_4.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b64e7eb2212d85c85a31e1cdcd356ba0/3bc27/app_4.jpg 240w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/98431/app_4.jpg 480w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/b3ee8/app_4.jpg 960w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/b97fe/app_4.jpg 1440w,
+/static/b64e7eb2212d85c85a31e1cdcd356ba0/52dee/app_4.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b64e7eb2212d85c85a31e1cdcd356ba0/b3ee8/app_4.jpg&quot;
+          alt=&quot;app_4.jpg&quot;
+          title=&quot;app_4.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[바이너리 코딩버스 타요 앱]]></title><description><![CDATA[Unity 3D와 C#을 활용하여 코딩교육 개념과 논리 사고 능력 향상 게임입니다.]]></description><link>https://jeongjihyo.github.io/posts/Codingbus-Tayo/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Codingbus-Tayo/</guid><pubDate>Fri, 01 Apr 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2016.04 - 2016.06&lt;/li&gt;
+&lt;li&gt;Role : 아이디어 구상 및 구체화, 화면 구성 및 UI/UX 디자인, 애니메이션, 개발&lt;/li&gt;
+&lt;li&gt;Skill : Unity 3D, C#, Javascript, Photoshop
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//aAAwDAQACEAMQAAABtVZrMEE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEgMTIf/aAAgBAQABBQLbYlwsuBCoxJaOvf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFkf//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8B1cv/xAAaEAABBQEAAAAAAAAAAAAAAAABABARITEC/9oACAEBAAY/AosrGJ51Cbb/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVFB/9oACAEBAAE/IYVQ8mC8PcNY0+3EhyO8wEwlwc/S87//2gAMAwEAAgADAAAAEMcf/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQMBAT8QWJwtw//EABgRAQADAQAAAAAAAAAAAAAAAAEAESGR/9oACAECAQE/EENt9Ym1P//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExUWFxkbH/2gAIAQEAAT8QeeBNmzv7l2VEFA+cT4VUTl8Z1pS+l1rFKS1tN/frIlUARU9Z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/01472/2.webp 240w,
+/static/fcae114fa378ec294e2bbae5227444a6/222bd/2.webp 480w,
+/static/fcae114fa378ec294e2bbae5227444a6/2d91e/2.webp 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/3bc27/2.jpg 240w,
+/static/fcae114fa378ec294e2bbae5227444a6/98431/2.jpg 480w,
+/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
+          alt=&quot;2.JPG&quot;
+          title=&quot;2.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;바이너리 코딩버스 타요 Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;2018년부터 정부의 코딩 의무 교육(중·고등학교 SW교육 의무화) 에 대비하여 초등학교 저학년부터 고학년 학생들을 대상으로 하는 “코딩교육 개념“ 과 “논리 사고 능력 향상 “ Unity 3D와 C#을 활용해 만든 게임입니다. 아이들이 좋아하는 게임으로 코딩교육에 대한 “흥미유발 “ 과 “ 학습효과 “어려운 코딩 개념 재미있는 게임으로 접목시켰습니다.&lt;/p&gt;
+&lt;p&gt;Unity Asset Store에 등록되어 있는 3D 모델을 다운받아 아이들이 좋아할 수 있도록 강아지 모델을 사용했습니다. 캐릭터에 움직일 수 있는 애니메이션을 적용해 키보드 A(오른쪽), D(왼쪽), W(직진), S(후진)으로 움직일 수 있습니다. 메인화면에는 게임시작, 게임소개, 만든 사람들, 게임종료 메뉴로 나뉘어져 있습니다. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.748373101952275%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABRtcy5vLI/wD/xAAbEAACAwADAAAAAAAAAAAAAAABAgMREgAiMv/aAAgBAQABBQJDsa4ZWt+scXtwL//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8BrX//xAAaEAACAgMAAAAAAAAAAAAAAAAAASExEBEi/9oACAEBAAY/AqNFI5jChUf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhQVExYXH/2gAIAQEAAT8hfDhRobrolLBVU4YGcfRSCzQ//9oADAMBAAIAAwAAABDc3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxACLZf/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/ELom2n//xAAZEAEBAQEBAQAAAAAAAAAAAAABESEAgTH/2gAIAQEAAT8QXUAaC+vF1dOLN9vFAgxVfvMQBbib0hcz484CQWHXe//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/01472/3.webp 240w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/222bd/3.webp 480w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/3a1b5/3.webp 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/3bc27/3.jpg 240w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/98431/3.jpg 480w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
+          alt=&quot;3.JPG&quot;
+          title=&quot;3.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 게임 시작 ]버튼을 누르면 수행해야 할 미션이 뜹니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.53145336225597%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABbXi9Ewkj/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECEgMRITL/2gAIAQEAAQUCxzsy8meTfFNpf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8BW1v/xAAZEAACAwEAAAAAAAAAAAAAAAAAAREhMaH/2gAIAQEABj8CtGcMKGKGf//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExgf/aAAgBAQABPyFT4VDi4oy4NJbyIIqHkV0hdQVP/9oADAMBAAIAAwAAABCUD//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBUIj//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EEZHm3//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhQTGx/9oACAEBAAE/EDsqXJYnL3BuARgBwdnlRY44/gz61B/N9KAgG//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/01472/4.webp 240w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/222bd/4.webp 480w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/3a1b5/4.webp 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/3bc27/4.jpg 240w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/98431/4.jpg 480w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
+          alt=&quot;4.JPG&quot;
+          title=&quot;4.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;미션을 수행하면 조금 더 쉽게 이해할 수 있도록 코딩에 대한 설명이 나옵니다. &lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaZErOP/xAAVEAEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAQABBQJr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/Air/AP/EABoQAQADAAMAAAAAAAAAAAAAAAEAETEQYXH/2gAIAQEAAT8hBTQO54JbHRUzj//aAAwDAQACAAMAAAAQ1M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qyq//xAAcEAEBAQABBQAAAAAAAAAAAAABEQAxIUFRYYH/2gAIAQEAAT8QYMDGo0p2872GgDh06JzzcNBh9N//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/01472/1.webp 240w,
+/static/e304773914dd4afdfd947b2541074736/222bd/1.webp 480w,
+/static/e304773914dd4afdfd947b2541074736/2d91e/1.webp 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/3bc27/1.jpg 240w,
+/static/e304773914dd4afdfd947b2541074736/98431/1.jpg 480w,
+/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
+          alt=&quot;1.JPG&quot;
+          title=&quot;1.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;게임을 단계별로 진행할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[What Day 기념일 카운트 앱]]></title><description><![CDATA[Android Studio와 Java를 활용하여 중요한 기념일을 잊어버리지 않기 위한 날짜 카운트 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/What-Day/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/What-Day/</guid><pubDate>Fri, 01 Apr 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2016.04 - 2016.06&lt;/li&gt;
+&lt;li&gt;Role : 아이디어 구상 및 구체화, 화면 구성 및 UI/UX 디자인, 개발&lt;/li&gt;
+&lt;li&gt;Skill : Unity 3D, C#, Javascript, Photoshop
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/89187b92924a428f83e7011cc9c4b565/c0594/whatday.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAF8J0UbqP/EABkQAAMAAwAAAAAAAAAAAAAAAAACBQEQMv/aAAgBAQABBQImuzZ1P6P/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAABBQEAAAAAAAAAAAAAAAAQAAECAxEx/9oACAEBAAY/AlPX4bB//8QAGhABAAIDAQAAAAAAAAAAAAAAAQAQETGxwf/aAAgBAQABPyF0wDzAMU6nB7X/2gAMAwEAAgADAAAAEDAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRAAAQMFAQAAAAAAAAAAAAAAAQAQoSExUXGRsf/aAAgBAQABPxCMURpWYDJ61zSge2f/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/89187b92924a428f83e7011cc9c4b565/01472/whatday.webp 240w,
+/static/89187b92924a428f83e7011cc9c4b565/222bd/whatday.webp 480w,
+/static/89187b92924a428f83e7011cc9c4b565/620b9/whatday.webp 960w,
+/static/89187b92924a428f83e7011cc9c4b565/55fa2/whatday.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/89187b92924a428f83e7011cc9c4b565/3bc27/whatday.jpg 240w,
+/static/89187b92924a428f83e7011cc9c4b565/98431/whatday.jpg 480w,
+/static/89187b92924a428f83e7011cc9c4b565/b3ee8/whatday.jpg 960w,
+/static/89187b92924a428f83e7011cc9c4b565/c0594/whatday.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/89187b92924a428f83e7011cc9c4b565/b3ee8/whatday.jpg&quot;
+          alt=&quot;whatday.jpg&quot;
+          title=&quot;whatday.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What Day 메인 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;Android Studio와 Java를 활용해 중요한 기념일을 잊어버리지 않기 위한 날짜 카운트 앱을 개발했습니다. 상대방에게 카카오톡으로 기념을과 남은 일수를 보낼 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 336px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/986968f6a90b93f20f560a3907d6755f/d51f7/create.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 154.46428571428572%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAABbqAAAW6gHljkMQAAADuklEQVRIx61WSU9UQRB+CQQTORDggIlwMcZf4E/kAkQQBkIUA4lEDiwHloNgDIsa9lX2dZh9n4GBGZahP+treM/H8BA0VlLpfl3VNdVffV09RklJiaqqqsKLl6/U6+dP8OxpIQzD0FpeXo7S0lKUlZWhsrISFRUVKCgoQHFxsbZzX1FREQoLCxXXRZVRU1ODtrY25WpuxgfXW7S6mvCmvh7V1dVoampCs6xTW1tb0dDQAJfLhY6ODtTV1emxsbFRz1taWlRtbS2MbDarcC3m+KCsrq4iGAzC7/cjGo1yrvb29hAIBJTBRaUULi4ucHl5qZVz+7e5RvF6vdjY2EAul8Po6Cja29t10EQigYmJCRihUOg6PQl6n5p2CjdPTk6C+2ZmZjA0NARmt7m5ienp6dsB7WIPxmxMzWQyOsDu7i4ODw91xpzv7OzA5/M9nCElHo/j4OBABxCccHx8jHA4rLMlZLRHIhFtswJeXV3dG5Q24mj65OPNkRKLxX4H/B/CwhhMncKUU6mUPsbJyYk2JpNJvc4j0cY1JsA1+tFOWzqdtqCxApJb+/v72Nra0ql7PB4N9PLyMtbX1/U3wad9e3tbF4b4sbq0WQEfc+TcDXb3CbG9c2SPVHD061d43G6sS7YHkkFEfmxjbe3RGFpHZgZzqz/R3vUJP+bn8eXbBIbHxzCzsozeoUGkpYrxU8E1cyqascZk9lrj8p2zMgyF9SUOy2LkLIvgSRqxi3PEzs8QFU3kLhGUYGHZGBIfcx4QP+9RSuthKoGs+CUZ0AnD3Pk54qy6OCSkmhyj8sNhIe6ZZBbyB5A+OrqfNqQEr5BPqhaWQJNTU/jY2Yn+/n586urC5+FhdMp3T08Pvn3/jnfv32NgcFBTiHu8cuVII01sUoBdwuv1aCqQOrxifr9Pj6TOvOBKv7m5OaysrFjrvI70J20WFhYwOzsLg/yjOgkJzMy6u7t1V+nt7cXAwICjL0+p2xfJOjY2pgnKwGtCEyrJvLS0hPHxcb3OX19cXNTZ2v2o3MuWRpvGkFfNvFJ2NRsn58THxCnfjzHMa/j/m4NT+zKvEuf5bcq0OfnfyjC/1fPXiImJEZsC3xJiyc5sv8P2RnwnoOnEYrGbUIaFh319fbojE++1m/v9VwHJNXKOhZgSoo+MjFjti5k+OqA5EjOSlgQmcXlMEpkEZ5ZOexwDOr2ATuLkrwPy1b95KhWPYFf782nXfD9RdfNIKYNR/+ZvyJ+S5ttiCDUU8XG73YqF+BflXnYrKaL6BaSN4KSWCyEFAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/986968f6a90b93f20f560a3907d6755f/01472/create.webp 240w,
+/static/986968f6a90b93f20f560a3907d6755f/da90b/create.webp 336w&quot;
+          sizes=&quot;(max-width: 336px) 100vw, 336px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/986968f6a90b93f20f560a3907d6755f/0783d/create.png 240w,
+/static/986968f6a90b93f20f560a3907d6755f/d51f7/create.png 336w&quot;
+          sizes=&quot;(max-width: 336px) 100vw, 336px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/986968f6a90b93f20f560a3907d6755f/d51f7/create.png&quot;
+          alt=&quot;create.png&quot;
+          title=&quot;create.png&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ D-day 등록 ]버튼을 눌러 디데이를 설정할 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 482px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/90e70976e8acd85185719be4fdc8b7e3/3e1c2/dday.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 154.5643153526971%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAABcRAAAXEQHKJvM/AAACgklEQVRIx+1Tz2saURB+Gn/FH7vrqnF1XXd13VVjqo0xSOkx0KSGpOTgqTkoKSGXQi6FkFsDpaUEaj1I/tuvM6/ZNAjpobSHgoePN/Nm3jcz3+wK3/cxHA6xM9jFqFuGb5WgaFkIIdBut+F5HjqdDvr9PlqtFsplyqE3xWIRg8EApmmiUCjIM5/PQ9i2jWaziVqthlq1CrdeR6VSgWEYqJLPtmVZ4LxSqSR9zn18chHOYVt0u11cXFxgOp3i7ekpTk5OcHZ2hoODA5lQpwKyGCGwHceR9uOTu+XOBXfBSa7ryvE4yB1zMOhsGfyGu2Wb37LP4LciHA4jEokgGo0isEOhkNSQ/WVwjHNZEs4J8hRFCXwhgzz6gw73icsICvV6PcxmM4zHY+zt7WEymWCxWGBjo8DxEGxq26Mxt3d2sEsb721vIxZPPEn8nOJfb2/x7vwcV9fXODo+xuLuDrk8EaZiUdhGERaxN6yKhG9XoaeSSEcjyFA8gBKPIUFd8n2/sylPLpBcC8PQNCTCNIGtZtDZyKGV19HUNXiaAldNS7uZyxI0iRbZHBvWHRwOByjH1uTdm5cv0DMN7Dq0XE35qWGt0UDBKKHmNiBC4SdHZeyPDvHp8xeMjo6g6jreX17iw9UVvs3nULM6RGJ9HU36A1wi7ZLYz2g57c1NqPd/ywPuF/Jqfx8fb27wejSSurM9oW949n2OztYWRC6Thlum7mjTfHoVE37VIk1UqKSblog/QCUN8+kU6iUDcSJn3zXLKNCdmdOlzsJMJ1FX0nCUFJzML7haBl5WRWMJLunEcZ/0Y9/J0HvaA3PwPsTv9PpD0Af7F/FvOlwRrghXhCvC/4/wB/TJyDWWE5J9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/90e70976e8acd85185719be4fdc8b7e3/01472/dday.webp 240w,
+/static/90e70976e8acd85185719be4fdc8b7e3/222bd/dday.webp 480w,
+/static/90e70976e8acd85185719be4fdc8b7e3/12196/dday.webp 482w&quot;
+          sizes=&quot;(max-width: 482px) 100vw, 482px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/90e70976e8acd85185719be4fdc8b7e3/0783d/dday.png 240w,
+/static/90e70976e8acd85185719be4fdc8b7e3/782f4/dday.png 480w,
+/static/90e70976e8acd85185719be4fdc8b7e3/3e1c2/dday.png 482w&quot;
+          sizes=&quot;(max-width: 482px) 100vw, 482px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/90e70976e8acd85185719be4fdc8b7e3/3e1c2/dday.png&quot;
+          alt=&quot;dday.png&quot;
+          title=&quot;dday.png&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 저장 ]버튼을 누르면 디데이가 설정된 것을 확인할 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 489px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e18dade2664058f55cf7a79dbd0b94c6/caa67/update.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 153.37423312883436%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAABcRAAAXEQHKJvM/AAAEI0lEQVRIx7VWW0+bRxD9VFUQIR4QSOWBh4CE1Ej9AfknfYaHoEogQWkcIUTV/oiqqtQ0VR4QL1AslAQoQlDELQFssA02GMzFNsb4fsPGlz2Zs2BCCLfeVhrP7s7s7OzMmfls1NXVpRobH+LLR1+px43VeFjzAMZnn8MwDIgM9fX1qKmpQXNzMxoaGlBRUYHa2lpUVlaiqalJy6qqqhT3q6urldHZ2Znv6+uD6dkz9b3pW/Q+/Q6dXV1oe/IE3d3dMJlMmnp7e/W6S2Q9PT1oaWnR++3t7WhtbUVbW5vq6OiAkUwmIUPhnqNUKmF1dRWHh4dwu92avF6v2t7exsbGhjICgYA2VigUVKlYRPEGErk26Pf7sbW1pecrKyvo7+9HOBzG6ekppqenYQSDwYublVLX0uWRSqUwPz+vjdrtdiwsLGhutVqxvLz8weDVg5f3crkcqCevQTQa1R4dHBzA5/PxuZoYAvI7PeTI5/OIRCIIhUJgzDOZjPaUFIvFND85OdHhuDD4Xwx6bxwfH2vv4vE4EomE9oAB5q3pdFrvcc49yuhpWY9ycoaEg6Ew+MPNzc1Npl0HmDcxRlw7HA64XC4dv729PT0n7e/vax2n04mjoyNtkJfd+WTGsRzfm+RFkX9iMB6Nwba2ht2dHYQlDCHZ94oH6lz5PkM/+Th4rBe2TRd+/u05fn35EubRUfzx+hV+efECAXl+Kn+KeDaLRC6LeO6MX6aYZFhd9pCLQDqFQyF/Kql5MHsilMFRJg1fMnEh86USeu1NxHGQiGm+F4sgVyoiEo6cZfmawGDl3Ts4JATrNhuW3r6Fc30dM1NTcAn/U14QDn56LiZIMZgplo1DFO2S0XXha2JodGwMf83MYHFxUZfaohh9/eaNrl/yubk5nWF9RtDAhkGEGIQFDV6tFp0ouXFoaAjj4+MYGRnBxMQEBgYGPspwWZewmpychEFM0Qtij3hiTEkMxe7uLoaHh/WFM+ItvaMu67asxzNMBu1QxygXPfuZx+P5iAhkGmYToBFy1isvuqy3I1Bj6P6fWr5q8LoeeB/ZGbBDMPh+GrVYLDprbJx8PrNtE8hwTs41ZWz5LucGLFaH4M6OuP9H7NufSo8blVimYDCTPMAel5VqIBwGBwd122evM5vNuh+y24wJlCgLBgOIJwqwW3/HTz0P8PVjAx7LN0hncjB4iJ2GwWVgl5aWtFEGmN5NCZi5z8TxFcSkx7ONLbcPu24zFsyP8Or5F8iFf0A0lj2rFHrDjJYPEgpsT8wqPeOcxExTVm77hQL7oFfII5SWGEb/fZZLkiPx57x9hT8YpJeslKtU7oc3yZTivHie5cjtX737jvJZ3Q/LH3rxUBVv+dDfQdqGfBXV3/4rcpujhJ4xOzurWNjSdRTB+0+IZwk9gZR6D6C6yWu6RCB0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e18dade2664058f55cf7a79dbd0b94c6/01472/update.webp 240w,
+/static/e18dade2664058f55cf7a79dbd0b94c6/222bd/update.webp 480w,
+/static/e18dade2664058f55cf7a79dbd0b94c6/933a3/update.webp 489w&quot;
+          sizes=&quot;(max-width: 489px) 100vw, 489px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e18dade2664058f55cf7a79dbd0b94c6/0783d/update.png 240w,
+/static/e18dade2664058f55cf7a79dbd0b94c6/782f4/update.png 480w,
+/static/e18dade2664058f55cf7a79dbd0b94c6/caa67/update.png 489w&quot;
+          sizes=&quot;(max-width: 489px) 100vw, 489px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e18dade2664058f55cf7a79dbd0b94c6/caa67/update.png&quot;
+          alt=&quot;update.png&quot;
+          title=&quot;update.png&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;등록한 해당 디데이를 누르면 &lt;br&gt;
+수정 or 삭제를 할 수 있으며 카카오톡으로 설정한 디데이를
+&lt;br&gt;전송할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 495px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb8b654b4f90cd29a5aab70f9a36f4a5/fa082/kakao1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 152.72727272727275%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAABcRAAAXEQHKJvM/AAADCklEQVRIx+2WW0hTcRzHz1NWiloppkQhJeKLjz1Fb7311kMUYRdJSKupRVQsL4ni1PJO23RectNoXsnL7s3L1LlNnXrm5o3CjCIIwqWb0vn239labThBSJDowIfv/5zzP9/z/Z3/4fwOFRMdhYT4U0xiYiLOxoUhLiIY+4KCQFEUoqMicSzmKEtCfBxiTxxHeGgIoiKPIPhAEOJOxiLicDh7LOTgfhwKCwV18WbmRsqDAlxLz2FSM7ORkpGDK3ee4ELyPSRxsnA9IxfJ9/PgmpN0NwtXOdm4zS3B5dTHSOMW40bmU1y69YjwkHhkgypokK+WtY6issvECFXzEChsqFHaIFIvsCpUWD3MolblRiiniVohIFqjnAW/14wXPRMEM6gcfqe99LUOZW16prxjDOXtfnQYUNFpQFmHCcWtFpS0WTxKs+MiqQX5knEUNE+C1zIKiidW2+s0CxDIaMZ1Z18sEPRNo+oNDbFqADNT6Zic4ICe5sBoTMeUmYOleQ4W5zJgpdPQrZMSQ4mGNSQXMzWkLH9c5VR0TKBeNogREw/9IzwME9WO8jA4xoPB7EY/ng9pv9KV8LehK5E/LtNapesZzqGydxlVfcs+WtHjprL3A6p7bb4JhXJPMvms18xrTKhVzASkTmUhC2vwT+hbLmvm3XebboVrXi15Iyq7jAES7gCh58a7aCjeawn/fIadu2Io3vOL8u+v8u4n/F/yXym5fpsW4IvFj1/fSRoi0gW9H1iReh580qQEMtKUtoNUsBV82RyEykXSHU2gikhCycASGtVW5qXGhsDM4qV6hijtwTNWm9GkGoLk7TAE3TpQ1VKt/dt3BxzOTWbNsYk159asOzew7nAS9eBYJwqs2WmsrpzH5udzoC1cUIL2fjvcG4MdbZ7pPyzAlzPA19NYsHFAPZcO2fVGG4wjZkZuXoFy4j0U4++gmf4I9dQK0QCw5z5BbbZCZZBAO96IPr0cFJf8ijxrkKFU1M3kNWmRK+ojyFD0SofC5kEUtgSGx6qO/IYYydgEfpcJPwGFUX62/sXcfQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb8b654b4f90cd29a5aab70f9a36f4a5/01472/kakao1.webp 240w,
+/static/eb8b654b4f90cd29a5aab70f9a36f4a5/222bd/kakao1.webp 480w,
+/static/eb8b654b4f90cd29a5aab70f9a36f4a5/1856c/kakao1.webp 495w&quot;
+          sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb8b654b4f90cd29a5aab70f9a36f4a5/0783d/kakao1.png 240w,
+/static/eb8b654b4f90cd29a5aab70f9a36f4a5/782f4/kakao1.png 480w,
+/static/eb8b654b4f90cd29a5aab70f9a36f4a5/fa082/kakao1.png 495w&quot;
+          sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/eb8b654b4f90cd29a5aab70f9a36f4a5/fa082/kakao1.png&quot;
+          alt=&quot;kakao1.png&quot;
+          title=&quot;kakao1.png&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;카카오톡으로 기념일과 남은 일수를 전송할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[ZOMBIE ATTACK 1인용 FPS 총 게임]]></title><description><![CDATA[Unity 3D와 C#을 활용하여 좀비를 피해 총으로 맞춰 살아남는 1인용 FPS총 게임입니다.]]></description><link>https://jeongjihyo.github.io/posts/Zombie-Attack/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Zombie-Attack/</guid><pubDate>Sun, 01 Nov 2015 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2015.11 - 2015.12&lt;/li&gt;
+&lt;li&gt;Role : 화면 구성 및 UI/UX 디자인, 애니메이션, 개발&lt;/li&gt;
+&lt;li&gt;Skill : Unity 3D, C#, Javascript, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 799px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0b42887b9b9851058389c86f42fc9ff1/6efb5/zombie_main.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.09386733416771%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHLVolUAZ//xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIDERMi/9oACAEBAAEFAnHUq49Ti6KN1nqf/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/ARF//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEhIhASQVH/2gAIAQEABj8CVrEifpt3EH//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUFRcYH/2gAIAQEAAT8hzQrE8MtnxzLzJi9YwxZuWSl9SxnAzqf/2gAMAwEAAgADAAAAENgP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxCNBf/EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxA1f//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESExUUFhkcH/2gAIAQEAAT8QO7Bp3oZUqA1jipcBgg0ASYLN5eXR+yhWjw9ykbdL9T//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0b42887b9b9851058389c86f42fc9ff1/01472/zombie_main.webp 240w,
+/static/0b42887b9b9851058389c86f42fc9ff1/222bd/zombie_main.webp 480w,
+/static/0b42887b9b9851058389c86f42fc9ff1/c75f7/zombie_main.webp 799w&quot;
+          sizes=&quot;(max-width: 799px) 100vw, 799px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0b42887b9b9851058389c86f42fc9ff1/3bc27/zombie_main.jpg 240w,
+/static/0b42887b9b9851058389c86f42fc9ff1/98431/zombie_main.jpg 480w,
+/static/0b42887b9b9851058389c86f42fc9ff1/6efb5/zombie_main.jpg 799w&quot;
+          sizes=&quot;(max-width: 799px) 100vw, 799px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0b42887b9b9851058389c86f42fc9ff1/6efb5/zombie_main.jpg&quot;
+          alt=&quot;zombie_main.JPG&quot;
+          title=&quot;zombie_main.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;ZOMBIE ATTACK 게임 시작 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;Unity Asset Store에 등록되어 있는 3D 모델을 다운받아 좀비와 1인칭 사람에 움직일 수 있도록 애니메이션을 적용했습니다. 좀비는 자동적으로 움직일 수 있도록 설정해 놓았으며 1인칭인 사람은 키보드 A(오른쪽), D(왼쪽), W(직진), S(후진)으로 움직일 수 있습니다. 총과 총알을 다운받아 C#으로 마우스의 왼쪽을 누르면 총알이 나갈 수 있도록 구현했습니다.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 799px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/910337a5b814ebecc4abd61a6113806b/6efb5/select.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.09386733416771%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABwKEUf//EABgQAAMBAQAAAAAAAAAAAAAAAAABIRAR/9oACAEBAAEFAhzLxjP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAEBAQAAAAAAAAAAAAAAAAABEAD/2gAIAQEABj8Cpif/xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMUFRcf/aAAgBAQABPyFtzLYji1VUeIPa1wVPA7cvR//aAAwDAQACAAMAAAAQuC//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMUFx/9oACAEBAAE/EEig8rhpJJeKeOD2PJd1ABazRNhwrfcj1wh83//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/910337a5b814ebecc4abd61a6113806b/01472/select.webp 240w,
+/static/910337a5b814ebecc4abd61a6113806b/222bd/select.webp 480w,
+/static/910337a5b814ebecc4abd61a6113806b/c75f7/select.webp 799w&quot;
+          sizes=&quot;(max-width: 799px) 100vw, 799px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/910337a5b814ebecc4abd61a6113806b/3bc27/select.jpg 240w,
+/static/910337a5b814ebecc4abd61a6113806b/98431/select.jpg 480w,
+/static/910337a5b814ebecc4abd61a6113806b/6efb5/select.jpg 799w&quot;
+          sizes=&quot;(max-width: 799px) 100vw, 799px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/910337a5b814ebecc4abd61a6113806b/6efb5/select.jpg&quot;
+          alt=&quot;select.JPG&quot;
+          title=&quot;select.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ Game Strart ]버튼을 누르면 3가지 총 디자인 중 본인이&lt;br&gt;원하는 총을 선택하여 좀비와 싸울 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 797px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/785e44ee0006876ec9526eba151732bc/ab18c/game.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.65495608531995%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABw2WacqD/xAAZEAACAwEAAAAAAAAAAAAAAAAAIRAREjH/2gAIAQEAAQUCOCjKo//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAWEAEBAQAAAAAAAAAAAAAAAAAQATL/2gAIAQEABj8CNFP/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMZH/2gAIAQEAAT8h7rBND7G8aZLWOVBPJ//aAAwDAQACAAMAAAAQtM//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPxBX/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qof/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMVFhcYH/2gAIAQEAAT8QVNl+Y19YJiJpwjiKWt6mQyka7zxBrGPc/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/785e44ee0006876ec9526eba151732bc/01472/game.webp 240w,
+/static/785e44ee0006876ec9526eba151732bc/222bd/game.webp 480w,
+/static/785e44ee0006876ec9526eba151732bc/6579e/game.webp 797w&quot;
+          sizes=&quot;(max-width: 797px) 100vw, 797px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/785e44ee0006876ec9526eba151732bc/3bc27/game.jpg 240w,
+/static/785e44ee0006876ec9526eba151732bc/98431/game.jpg 480w,
+/static/785e44ee0006876ec9526eba151732bc/ab18c/game.jpg 797w&quot;
+          sizes=&quot;(max-width: 797px) 100vw, 797px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/785e44ee0006876ec9526eba151732bc/ab18c/game.jpg&quot;
+          alt=&quot;game.JPG&quot;
+          title=&quot;game.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 802px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3aecf63746a0cf8cf55e23d395e4c487/5421d/attack.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.3142144638404%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHiXQqAv//EABcQAQEBAQAAAAAAAAAAAAAAAAABEhH/2gAIAQEAAQUCVGbWXK//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPwGn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/Air/AP/EABoQAQEBAAMBAAAAAAAAAAAAAAEAESExUWH/2gAIAQEAAT8hVXmfmpOd2jyfqMr/2gAMAwEAAgADAAAAEMwv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEu4Gb//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oACAECAQE/EBOzl//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFRMUGRYf/aAAgBAQABPxBjZqUAVD5wRxtezE4DuVrV03Oo8Z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/3aecf63746a0cf8cf55e23d395e4c487/01472/attack.webp 240w,
+/static/3aecf63746a0cf8cf55e23d395e4c487/222bd/attack.webp 480w,
+/static/3aecf63746a0cf8cf55e23d395e4c487/43b8e/attack.webp 802w&quot;
+          sizes=&quot;(max-width: 802px) 100vw, 802px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/3aecf63746a0cf8cf55e23d395e4c487/3bc27/attack.jpg 240w,
+/static/3aecf63746a0cf8cf55e23d395e4c487/98431/attack.jpg 480w,
+/static/3aecf63746a0cf8cf55e23d395e4c487/5421d/attack.jpg 802w&quot;
+          sizes=&quot;(max-width: 802px) 100vw, 802px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/3aecf63746a0cf8cf55e23d395e4c487/5421d/attack.jpg&quot;
+          alt=&quot;attack.JPG&quot;
+          title=&quot;attack.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;좀비를 3명 이상을 죽여야 게임을 성공하며 죽일 때마다 점수가 올라 총 60점 맞아야 게임에서 이기게 됩니다.
+&lt;br&gt;
+&lt;br&gt;
+좀비에게 닿으면 HP가 깎이며 시작 100HP에서 0HP가&lt;br&gt;되면 죽게됩니다.
+&lt;br&gt;
+&lt;br&gt;
+오른쪽 하단의 숫자 / 무한의 표시는 총알의 갯수를 표현한 것 입니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 796px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e3116976e486e2d12d2146ba28018a9/a53a2/success.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABz9goP//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQABBQKUf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAQEBAAMAAAAAAAAAAAAAAAEAESFBUf/aAAgBAQABPyHlsTq19kyVYTf/2gAMAwEAAgADAAAAELDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8Qqh1fDJKoPOm5hUMiiTQK2YKhv//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4e3116976e486e2d12d2146ba28018a9/01472/success.webp 240w,
+/static/4e3116976e486e2d12d2146ba28018a9/222bd/success.webp 480w,
+/static/4e3116976e486e2d12d2146ba28018a9/928e6/success.webp 796w&quot;
+          sizes=&quot;(max-width: 796px) 100vw, 796px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4e3116976e486e2d12d2146ba28018a9/3bc27/success.jpg 240w,
+/static/4e3116976e486e2d12d2146ba28018a9/98431/success.jpg 480w,
+/static/4e3116976e486e2d12d2146ba28018a9/a53a2/success.jpg 796w&quot;
+          sizes=&quot;(max-width: 796px) 100vw, 796px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/4e3116976e486e2d12d2146ba28018a9/a53a2/success.jpg&quot;
+          alt=&quot;successJPG&quot;
+          title=&quot;successJPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 797px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6619a05cd5647c3f644d470a83ee4933/ab18c/fail.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.52948557089084%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABz9goP//EABYQAQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAQABBQJMR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAQEBAQEBAAAAAAAAAAAAAAEAETEhUf/aAAgBAQABPyHso6Wv2fLdhN//2gAMAwEAAgADAAAAELDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARMSFx/9oACAEBAAE/EFdNzbD2cgtyBVOxVLcgVhP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6619a05cd5647c3f644d470a83ee4933/01472/fail.webp 240w,
+/static/6619a05cd5647c3f644d470a83ee4933/222bd/fail.webp 480w,
+/static/6619a05cd5647c3f644d470a83ee4933/6579e/fail.webp 797w&quot;
+          sizes=&quot;(max-width: 797px) 100vw, 797px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6619a05cd5647c3f644d470a83ee4933/3bc27/fail.jpg 240w,
+/static/6619a05cd5647c3f644d470a83ee4933/98431/fail.jpg 480w,
+/static/6619a05cd5647c3f644d470a83ee4933/ab18c/fail.jpg 797w&quot;
+          sizes=&quot;(max-width: 797px) 100vw, 797px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/6619a05cd5647c3f644d470a83ee4933/ab18c/fail.jpg&quot;
+          alt=&quot;fail.JPG&quot;
+          title=&quot;fail.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;게임의 성공과 실패화면 입니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[쇼핑몰 DumbDumb 사용자 / 관리자 용 웹페이지]]></title><description><![CDATA[PHP를 활용한 개인쇼핑몰로 사용자 · 관리자용으로 나뉘어져 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/shopping-mall-dumbdumb/</guid><pubDate>Thu, 01 Oct 2015 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2015.10 - 2015.12&lt;/li&gt;
+&lt;li&gt;Skill : PHP, MySQL, Apache Tomcat, Javascript, HTML, CSS, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6a06dddc284a81cbdd4557e2044f0ed8/c0594/dumb_main.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHaWbgXAH//xAAZEAACAwEAAAAAAAAAAAAAAAABAgAQERL/2gAIAQEAAQUCfNUjmNf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAACEQEAEiAhQf/aAAgBAQAGPwKHOqK4hfFj/8QAGhAAAgIDAAAAAAAAAAAAAAAAADEBQREgIf/aAAgBAQABPyGSd1eBIGzRCP/aAAwDAQACAAMAAAAQc8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAQUBAAAAAAAAAAAAAAABEQAQITFBcf/aAAgBAQABPxAoE3UCxSQQrJzHNuW2xbR5X//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6a06dddc284a81cbdd4557e2044f0ed8/01472/dumb_main.webp 240w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/222bd/dumb_main.webp 480w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/620b9/dumb_main.webp 960w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/55fa2/dumb_main.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6a06dddc284a81cbdd4557e2044f0ed8/3bc27/dumb_main.jpg 240w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/98431/dumb_main.jpg 480w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/b3ee8/dumb_main.jpg 960w,
+/static/6a06dddc284a81cbdd4557e2044f0ed8/c0594/dumb_main.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/6a06dddc284a81cbdd4557e2044f0ed8/b3ee8/dumb_main.jpg&quot;
+          alt=&quot;dumb_main.jpg&quot;
+          title=&quot;dumb_main.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;쇼핑몰 DumbDumb Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;DumbDumb은 개인쇼핑몰로 사용자용과 관리자용으로 나뉘어져 있습니다. 사용자는 주문 · 결제 · 1:1문의 등이 가능하며 관리자는 회원관리 · 상품관리 · 주문관리 · 옵션관리 · FAQ관리를 할 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[ 사용자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e7578d6a7afcb52519b312de374d8cc/52dee/dumb_web_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.05256869772998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHqV6c5tSIqC4H/xAAcEAACAgMBAQAAAAAAAAAAAAABAgADBBETEjH/2gAIAQEAAQUCyLeK05HWalqB1UKph+eRuf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAEBEhAhIiMTL/2gAIAQEABj8CB1m15hrHS4jGSbcUG//EAB0QAAICAwADAAAAAAAAAAAAAAERACEQMVFBYXH/2gAIAQEAAT8h8qqbgjNeb3E5KJHYODqIFPjwDtA0uYtesf/aAAwDAQACAAMAAAAQg8g8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAQACAgMBAAAAAAAAAAAAAREAMSFREEGRYf/aAAgBAQABPxAp6KeE4W6esIUQlNbToz8XzApbS1sc2vU0eVp27DwCAEnvNMhOC0QPzx//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0e7578d6a7afcb52519b312de374d8cc/01472/dumb_web_1.webp 240w,
+/static/0e7578d6a7afcb52519b312de374d8cc/222bd/dumb_web_1.webp 480w,
+/static/0e7578d6a7afcb52519b312de374d8cc/620b9/dumb_web_1.webp 960w,
+/static/0e7578d6a7afcb52519b312de374d8cc/28063/dumb_web_1.webp 1440w,
+/static/0e7578d6a7afcb52519b312de374d8cc/b8f60/dumb_web_1.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0e7578d6a7afcb52519b312de374d8cc/3bc27/dumb_web_1.jpg 240w,
+/static/0e7578d6a7afcb52519b312de374d8cc/98431/dumb_web_1.jpg 480w,
+/static/0e7578d6a7afcb52519b312de374d8cc/b3ee8/dumb_web_1.jpg 960w,
+/static/0e7578d6a7afcb52519b312de374d8cc/b97fe/dumb_web_1.jpg 1440w,
+/static/0e7578d6a7afcb52519b312de374d8cc/52dee/dumb_web_1.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0e7578d6a7afcb52519b312de374d8cc/b3ee8/dumb_web_1.jpg&quot;
+          alt=&quot;dumb_web_1.jpg&quot;
+          title=&quot;dumb_web_1.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumbDumb의 사용자용 메인화면으로
+&lt;br&gt;홈으로 가기 / 로그인 / 회원가입 / 장바구니 / 주문 / 즐겨찾기 메뉴가
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.
+&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/275ffd8c27264c46b288362bb13520fe/52dee/dumb_web_login.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.05256869772998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB6le1iXJAEg//xAAbEAEAAQUBAAAAAAAAAAAAAAACAwABBBETIP/aAAgBAQABBQLIl4mHI61qmC7GMG/j/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAEgIQICEy/9oACAEBAAY/AgavueVoWDjGIHH/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMVEgQf/aAAgBAQABPyH6q03CbjzncpyGhAbzHyhfP//aAAwDAQACAAMAAAAQs88A/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHBABAQACAwEBAAAAAAAAAAAAAREAIRAxUWGR/9oACAEBAAE/ECnop0mlvT5hCiEprtPDPi/MIYMHS5sEuQleIMpz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/275ffd8c27264c46b288362bb13520fe/01472/dumb_web_login.webp 240w,
+/static/275ffd8c27264c46b288362bb13520fe/222bd/dumb_web_login.webp 480w,
+/static/275ffd8c27264c46b288362bb13520fe/620b9/dumb_web_login.webp 960w,
+/static/275ffd8c27264c46b288362bb13520fe/28063/dumb_web_login.webp 1440w,
+/static/275ffd8c27264c46b288362bb13520fe/b8f60/dumb_web_login.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/275ffd8c27264c46b288362bb13520fe/3bc27/dumb_web_login.jpg 240w,
+/static/275ffd8c27264c46b288362bb13520fe/98431/dumb_web_login.jpg 480w,
+/static/275ffd8c27264c46b288362bb13520fe/b3ee8/dumb_web_login.jpg 960w,
+/static/275ffd8c27264c46b288362bb13520fe/b97fe/dumb_web_login.jpg 1440w,
+/static/275ffd8c27264c46b288362bb13520fe/52dee/dumb_web_login.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/275ffd8c27264c46b288362bb13520fe/b3ee8/dumb_web_login.jpg&quot;
+          alt=&quot;dumb_web_login.jpg&quot;
+          title=&quot;dumb_web_login.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;회원가입을 하고 로그인 후에 주문 / 결제 등 이용이 가능합니다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/97637c5a718e5a3148355b28ec61de05/52dee/dumb_web_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.74193548387096%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe6rAof/xAAXEAADAQAAAAAAAAAAAAAAAAAAESBB/9oACAEBAAEFAtFH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEhURARMaH/2gAIAQEAAT8hfERZFeGlDFj/2gAMAwEAAgADAAAAEFMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAQEAAgMAAAAAAAAAAAAAAREAECFBYZH/2gAIAQEAAT8QCFKhq8OlyM9L5hTrBLW98f/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/97637c5a718e5a3148355b28ec61de05/01472/dumb_web_2.webp 240w,
+/static/97637c5a718e5a3148355b28ec61de05/222bd/dumb_web_2.webp 480w,
+/static/97637c5a718e5a3148355b28ec61de05/620b9/dumb_web_2.webp 960w,
+/static/97637c5a718e5a3148355b28ec61de05/28063/dumb_web_2.webp 1440w,
+/static/97637c5a718e5a3148355b28ec61de05/b8f60/dumb_web_2.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/97637c5a718e5a3148355b28ec61de05/3bc27/dumb_web_2.jpg 240w,
+/static/97637c5a718e5a3148355b28ec61de05/98431/dumb_web_2.jpg 480w,
+/static/97637c5a718e5a3148355b28ec61de05/b3ee8/dumb_web_2.jpg 960w,
+/static/97637c5a718e5a3148355b28ec61de05/b97fe/dumb_web_2.jpg 1440w,
+/static/97637c5a718e5a3148355b28ec61de05/52dee/dumb_web_2.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/97637c5a718e5a3148355b28ec61de05/b3ee8/dumb_web_2.jpg&quot;
+          alt=&quot;dumb_web_2.jpg&quot;
+          title=&quot;dumb_web_2.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장바구니에 담겨져 있는 상품을 주문 시 카드정보 입력 후
+&lt;br&gt;[ 결제하기 ] 버튼을 누르면 결제가 진행됩니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/461608b6a3d035e9e39a0922178c9b12/52dee/dumb_web_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.74193548387096%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd2QLD//xAAXEAADAQAAAAAAAAAAAAAAAAAAESBB/9oACAEBAAEFAtFH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERYRAhUf/aAAgBAQABPyF0RCohwa3n/9oADAMBAAIAAwAAABCzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEAESGREDFh/9oACAEBAAE/EAUMCdsQQrSeLURCJRKrLx//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/461608b6a3d035e9e39a0922178c9b12/01472/dumb_web_3.webp 240w,
+/static/461608b6a3d035e9e39a0922178c9b12/222bd/dumb_web_3.webp 480w,
+/static/461608b6a3d035e9e39a0922178c9b12/620b9/dumb_web_3.webp 960w,
+/static/461608b6a3d035e9e39a0922178c9b12/28063/dumb_web_3.webp 1440w,
+/static/461608b6a3d035e9e39a0922178c9b12/b8f60/dumb_web_3.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/461608b6a3d035e9e39a0922178c9b12/3bc27/dumb_web_3.jpg 240w,
+/static/461608b6a3d035e9e39a0922178c9b12/98431/dumb_web_3.jpg 480w,
+/static/461608b6a3d035e9e39a0922178c9b12/b3ee8/dumb_web_3.jpg 960w,
+/static/461608b6a3d035e9e39a0922178c9b12/b97fe/dumb_web_3.jpg 1440w,
+/static/461608b6a3d035e9e39a0922178c9b12/52dee/dumb_web_3.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/461608b6a3d035e9e39a0922178c9b12/b3ee8/dumb_web_3.jpg&quot;
+          alt=&quot;dumb_web_3.jpg&quot;
+          title=&quot;dumb_web_3.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;결제 이후 주문내역 / 배송내역 / 결제내역을 확인 할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[ 관리자용 화면 ]&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/61a4e12cf7e24ba7566aef68a981a53c/52dee/dumb_web_8.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.61409796893668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3ZCwf//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEAAQUCcw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAZEAADAAMAAAAAAAAAAAAAAAAAATERIVH/2gAIAQEAAT8h0iQrEYcP/9oADAMBAAIAAwAAABBzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABgQAAMBAQAAAAAAAAAAAAAAAAABEWGR/9oACAEBAAE/EFhNh6W0szFw/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/61a4e12cf7e24ba7566aef68a981a53c/01472/dumb_web_8.webp 240w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/222bd/dumb_web_8.webp 480w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/620b9/dumb_web_8.webp 960w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/28063/dumb_web_8.webp 1440w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/b8f60/dumb_web_8.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/61a4e12cf7e24ba7566aef68a981a53c/3bc27/dumb_web_8.jpg 240w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/98431/dumb_web_8.jpg 480w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/b3ee8/dumb_web_8.jpg 960w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/b97fe/dumb_web_8.jpg 1440w,
+/static/61a4e12cf7e24ba7566aef68a981a53c/52dee/dumb_web_8.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/61a4e12cf7e24ba7566aef68a981a53c/b3ee8/dumb_web_8.jpg&quot;
+          alt=&quot;dumb_web_8.jpg&quot;
+          title=&quot;dumb_web_8.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DumdDumd의 관리자용 화면으로
+&lt;br&gt;회원관리 / 상품관리 / 주문관리 / 옵션관리 / FAQ관리 탭으로 되어 있습니다.
+&lt;br&gt;상단에 있으며 왼쪽은 상품의 카테고리로 분류되어 있습니다.
+&lt;br&gt;
+&lt;br&gt;회원관리 탭에서는 회원의 아이디 · 이름 · 휴대폰 번호 · 이메일을 &lt;br&gt;확인할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0a8fab108a6c984f7f75d5b29a85a9f7/52dee/dumb_web_5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.61409796893668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3ZCwf//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEAAQUCcw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAEEH/2gAIAQEABj8CIv/EABkQAAMBAQEAAAAAAAAAAAAAAAABETEhUf/aAAgBAQABPyHnEhW4I8P/2gAMAwEAAgADAAAAEAPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERIWFBkf/aAAgBAQABPxBIJsPSinB2jF4f/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0a8fab108a6c984f7f75d5b29a85a9f7/01472/dumb_web_5.webp 240w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/222bd/dumb_web_5.webp 480w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/620b9/dumb_web_5.webp 960w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/28063/dumb_web_5.webp 1440w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/b8f60/dumb_web_5.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0a8fab108a6c984f7f75d5b29a85a9f7/3bc27/dumb_web_5.jpg 240w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/98431/dumb_web_5.jpg 480w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/b3ee8/dumb_web_5.jpg 960w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/b97fe/dumb_web_5.jpg 1440w,
+/static/0a8fab108a6c984f7f75d5b29a85a9f7/52dee/dumb_web_5.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0a8fab108a6c984f7f75d5b29a85a9f7/b3ee8/dumb_web_5.jpg&quot;
+          alt=&quot;dumb_web_5.jpg&quot;
+          title=&quot;dumb_web_5.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;상품관리 화면으로 상품의 등록 / 수정 / 삭제를 할 수 있으며
+&lt;br&gt;상품 수량 · 상품 분류 · 상품 코드 · 상품명 ·
+가격 · 상태 · 이벤트 등을 &lt;br&gt;확인 할 수 있습니다.
+&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+해당 상품을 누르면&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4977be9ebc3b90eaea1e196ee7d7f352/52dee/dumb_web_4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAEDBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHcThLIB//EABsQAAIBBQAAAAAAAAAAAAAAAAABAhARISIx/9oACAEBAAEFApYLqkuNbn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAACECD/2gAIAQEABj8CgV//xAAaEAEAAgMBAAAAAAAAAAAAAAABACEQEUFR/9oACAEBAAE/IaCuywHVzR5jBZ5j/9oADAMBAAIAAwAAABCwz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExEFFhkf/aAAgBAQABPxBCAZo3KnCugds83yDbpsgbWvGeP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4977be9ebc3b90eaea1e196ee7d7f352/01472/dumb_web_4.webp 240w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/222bd/dumb_web_4.webp 480w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/620b9/dumb_web_4.webp 960w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/28063/dumb_web_4.webp 1440w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/b8f60/dumb_web_4.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4977be9ebc3b90eaea1e196ee7d7f352/3bc27/dumb_web_4.jpg 240w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/98431/dumb_web_4.jpg 480w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/b3ee8/dumb_web_4.jpg 960w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/b97fe/dumb_web_4.jpg 1440w,
+/static/4977be9ebc3b90eaea1e196ee7d7f352/52dee/dumb_web_4.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/4977be9ebc3b90eaea1e196ee7d7f352/b3ee8/dumb_web_4.jpg&quot;
+          alt=&quot;dumb_web_4.jpg&quot;
+          title=&quot;dumb_web_4.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;해당 상품의 변경 사항을 수정할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b4884e7173d81f11a9e6f946e9a6b797/52dee/dumb_web_7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.61409796893668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3ZCwf//EABcQAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQEAAQUCltP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAEEH/2gAIAQEABj8CIv/EABsQAAIBBQAAAAAAAAAAAAAAAAABESFBUWGB/9oACAEBAAE/IdEulbBDB//aAAwDAQACAAMAAAAQA8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMWGR/9oACAEBAAE/EFalF2FiTk3Di8P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b4884e7173d81f11a9e6f946e9a6b797/01472/dumb_web_7.webp 240w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/222bd/dumb_web_7.webp 480w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/620b9/dumb_web_7.webp 960w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/28063/dumb_web_7.webp 1440w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/b8f60/dumb_web_7.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b4884e7173d81f11a9e6f946e9a6b797/3bc27/dumb_web_7.jpg 240w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/98431/dumb_web_7.jpg 480w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/b3ee8/dumb_web_7.jpg 960w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/b97fe/dumb_web_7.jpg 1440w,
+/static/b4884e7173d81f11a9e6f946e9a6b797/52dee/dumb_web_7.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b4884e7173d81f11a9e6f946e9a6b797/b3ee8/dumb_web_7.jpg&quot;
+          alt=&quot;dumb_web_7.jpg&quot;
+          title=&quot;dumb_web_7.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;주문관리 화면으로 주문한 상품에 대해 확인을 할 수 있으며
+&lt;br&gt;주문번호 · 주문일 · 상품명 · 제품수량 ·
+주문자 · 결제 방법 · 주문 상태를 &lt;br&gt;확인 할 수 있습니다.
+&lt;br&gt;&lt;br&gt;
+&lt;br&gt;해당 주문건을 누르면&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3c02eefc1d56b0a15ca76094806dc786/52dee/dumb_web_6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.758661887694146%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHcWxRyQ//EABgQAAMBAQAAAAAAAAAAAAAAAAABIQIQ/9oACAEBAAEFAtQTo+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAcEAADAAEFAAAAAAAAAAAAAAAAAREQITFBUYH/2gAIAQEAAT8h0FEikOEXRwFv7j//2gAMAwEAAgADAAAAEMAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERMRAhYXGR/9oACAEBAAE/EGlMNuNiYC6SON4U7FGH/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/3c02eefc1d56b0a15ca76094806dc786/01472/dumb_web_6.webp 240w,
+/static/3c02eefc1d56b0a15ca76094806dc786/222bd/dumb_web_6.webp 480w,
+/static/3c02eefc1d56b0a15ca76094806dc786/620b9/dumb_web_6.webp 960w,
+/static/3c02eefc1d56b0a15ca76094806dc786/28063/dumb_web_6.webp 1440w,
+/static/3c02eefc1d56b0a15ca76094806dc786/b8f60/dumb_web_6.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/3c02eefc1d56b0a15ca76094806dc786/3bc27/dumb_web_6.jpg 240w,
+/static/3c02eefc1d56b0a15ca76094806dc786/98431/dumb_web_6.jpg 480w,
+/static/3c02eefc1d56b0a15ca76094806dc786/b3ee8/dumb_web_6.jpg 960w,
+/static/3c02eefc1d56b0a15ca76094806dc786/b97fe/dumb_web_6.jpg 1440w,
+/static/3c02eefc1d56b0a15ca76094806dc786/52dee/dumb_web_6.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/3c02eefc1d56b0a15ca76094806dc786/b3ee8/dumb_web_6.jpg&quot;
+          alt=&quot;dumb_web_6.jpg&quot;
+          title=&quot;dumb_web_6.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;주문한 고객님의 정보와 상품을 상세하게 조회할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[TimeBox 하이브리드 앱]]></title><description><![CDATA[Spring Frame Work과 MySQL을 이용하여 강의 자료 및 과제 관리 하이브리드 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/Timebox-APP/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Timebox-APP/</guid><pubDate>Sun, 01 Mar 2015 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2015.03 - 2015.11&lt;/li&gt;
+&lt;li&gt;Role : 아이디어 구상 및 구체화, 화면 기획 구성 및 UI/UX 디자인 설계 및 구성&lt;/li&gt;
+&lt;li&gt;Skill : Spring Frame Work, Oracle, Tomcat, HTML, CSS, JavaScript, Jquery, Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e41ab51460aa2c3a520ff57e3c5f5697/c0594/login.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69190600522193%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe1O2CwP/8QAGRAAAgMBAAAAAAAAAAAAAAAAAhEAARAS/9oACAEBAAEFAjTvhQt//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRABAAIDAAAAAAAAAAAAAAAAAQARICGR/9oACAEBAAY/Ai2OzuP/xAAaEAABBQEAAAAAAAAAAAAAAAABABEgITFB/9oACAEBAAE/ISxwvSyOs9yAMX//2gAMAwEAAgADAAAAEDPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERITFBEFFx/9oACAEBAAE/EFUKf0DcEqjU6XnW+MkIweH/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e41ab51460aa2c3a520ff57e3c5f5697/01472/login.webp 240w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/222bd/login.webp 480w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/620b9/login.webp 960w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/55fa2/login.webp 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e41ab51460aa2c3a520ff57e3c5f5697/3bc27/login.jpg 240w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/98431/login.jpg 480w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/b3ee8/login.jpg 960w,
+/static/e41ab51460aa2c3a520ff57e3c5f5697/c0594/login.jpg 1149w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e41ab51460aa2c3a520ff57e3c5f5697/b3ee8/login.jpg&quot;
+          alt=&quot;login.jpg&quot;
+          title=&quot;login.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;TimeBox 메인 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;교수님들 각각 사이트에서 사용하시는 분들이 많기 때문에 사이트가 통합되어 과제 관리와 자료 관리가 쉽게 이루어 지며, 모바일로도 접근이 가능합니다. 교수님들의 수업자료나 학생들이 제출한 과제시간표를 통해서 접근하고 관리하며 자료실/과제실, 디데이 설정을 할 수 있습니다. TimeBox는 웹사이트와 모바일을 연동한 하이브리드 앱입니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b43970f12d0255367866d879dbb1deed/52dee/join.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHvzRDS/wD/xAAWEAADAAAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCFP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRAAAwADAAAAAAAAAAAAAAAAAAERIEFR/9oACAEBAAE/IYiHpEXMP//aAAwDAQACAAMAAAAQdA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEBAAMBAAAAAAAAAAAAAAABEDFRYZH/2gAIAQEAAT8Q3Aw3N5ADBP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b43970f12d0255367866d879dbb1deed/01472/join.webp 240w,
+/static/b43970f12d0255367866d879dbb1deed/222bd/join.webp 480w,
+/static/b43970f12d0255367866d879dbb1deed/620b9/join.webp 960w,
+/static/b43970f12d0255367866d879dbb1deed/28063/join.webp 1440w,
+/static/b43970f12d0255367866d879dbb1deed/b8f60/join.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b43970f12d0255367866d879dbb1deed/3bc27/join.jpg 240w,
+/static/b43970f12d0255367866d879dbb1deed/98431/join.jpg 480w,
+/static/b43970f12d0255367866d879dbb1deed/b3ee8/join.jpg 960w,
+/static/b43970f12d0255367866d879dbb1deed/b97fe/join.jpg 1440w,
+/static/b43970f12d0255367866d879dbb1deed/52dee/join.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b43970f12d0255367866d879dbb1deed/b3ee8/join.jpg&quot;
+          alt=&quot;join.jpg&quot;
+          title=&quot;join.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;교수와 학생 둘 중 하나로 회원가입이 가능하며 로그인 후 &lt;br&gt;시간표를 설정할 수 있습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/530635d1db01a01da83e0e0c2ca7709f/52dee/blank.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3lBR/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARUSAx/9oACAEBAAE/IUK8lGEozj//2gAMAwEAAgADAAAAEPAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAERQZEQIWH/2gAIAQEAAT8Q2DFZJEmoOaiM/wD/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/530635d1db01a01da83e0e0c2ca7709f/01472/blank.webp 240w,
+/static/530635d1db01a01da83e0e0c2ca7709f/222bd/blank.webp 480w,
+/static/530635d1db01a01da83e0e0c2ca7709f/620b9/blank.webp 960w,
+/static/530635d1db01a01da83e0e0c2ca7709f/28063/blank.webp 1440w,
+/static/530635d1db01a01da83e0e0c2ca7709f/b8f60/blank.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/530635d1db01a01da83e0e0c2ca7709f/3bc27/blank.jpg 240w,
+/static/530635d1db01a01da83e0e0c2ca7709f/98431/blank.jpg 480w,
+/static/530635d1db01a01da83e0e0c2ca7709f/b3ee8/blank.jpg 960w,
+/static/530635d1db01a01da83e0e0c2ca7709f/b97fe/blank.jpg 1440w,
+/static/530635d1db01a01da83e0e0c2ca7709f/52dee/blank.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/530635d1db01a01da83e0e0c2ca7709f/b3ee8/blank.jpg&quot;
+          alt=&quot;blank.jpg&quot;
+          title=&quot;blank.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;첫 로그인 후 빈 시간표를 확인할 수 있습니다. 빈간으로 되어있는 빈칸을 누르면 시간표를 검색하여 설정할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c4e4b349e2edfa8eece9a090b104a70d/52dee/timebox_setting.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHt1RDS/wD/xAAWEAEBAQAAAAAAAAAAAAAAAAABACD/2gAIAQEAAQUCYz//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAACAwEAAAAAAAAAAAAAAAAAEQEgIVH/2gAIAQEAAT8hZ4QwUcp//9oADAMBAAIAAwAAABB0D//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EIf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAACAgEFAAAAAAAAAAAAAAAAAREhgRAxYZGh/9oACAEBAAE/EI6pWK8EOyTwcbo3QtP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c4e4b349e2edfa8eece9a090b104a70d/01472/timebox_setting.webp 240w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/222bd/timebox_setting.webp 480w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/620b9/timebox_setting.webp 960w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/28063/timebox_setting.webp 1440w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/b8f60/timebox_setting.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c4e4b349e2edfa8eece9a090b104a70d/3bc27/timebox_setting.jpg 240w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/98431/timebox_setting.jpg 480w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/b3ee8/timebox_setting.jpg 960w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/b97fe/timebox_setting.jpg 1440w,
+/static/c4e4b349e2edfa8eece9a090b104a70d/52dee/timebox_setting.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c4e4b349e2edfa8eece9a090b104a70d/b3ee8/timebox_setting.jpg&quot;
+          alt=&quot;timebox_setting.jpg&quot;
+          title=&quot;timebox_setting.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5cc90e09c6f680c646bb582eb7777f45/52dee/timebox.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHvTRCl/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEg/9oACAEBAAEFAhT/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABsQAAIBBQAAAAAAAAAAAAAAAAABESAhMVFh/9oACAEBAAE/IWrYOkpIWqP/2gAMAwEAAgADAAAAELQP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAICAwAAAAAAAAAAAAAAAQARECFBYZH/2gAIAQEAAT8QCyBQ1cFgGraBonW8nGf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/5cc90e09c6f680c646bb582eb7777f45/01472/timebox.webp 240w,
+/static/5cc90e09c6f680c646bb582eb7777f45/222bd/timebox.webp 480w,
+/static/5cc90e09c6f680c646bb582eb7777f45/620b9/timebox.webp 960w,
+/static/5cc90e09c6f680c646bb582eb7777f45/28063/timebox.webp 1440w,
+/static/5cc90e09c6f680c646bb582eb7777f45/b8f60/timebox.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/5cc90e09c6f680c646bb582eb7777f45/3bc27/timebox.jpg 240w,
+/static/5cc90e09c6f680c646bb582eb7777f45/98431/timebox.jpg 480w,
+/static/5cc90e09c6f680c646bb582eb7777f45/b3ee8/timebox.jpg 960w,
+/static/5cc90e09c6f680c646bb582eb7777f45/b97fe/timebox.jpg 1440w,
+/static/5cc90e09c6f680c646bb582eb7777f45/52dee/timebox.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/5cc90e09c6f680c646bb582eb7777f45/b3ee8/timebox.jpg&quot;
+          alt=&quot;timebox.jpg&quot;
+          title=&quot;timebox.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;시간표를 검색하여 본인의 해당 시간표를 선택하여 설정하여 &lt;br&gt;시간표를 완성할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c5932aa51a18ea6f9218c0253b961577/52dee/code.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHuXRCl/8QAFhAAAwAAAAAAAAAAAAAAAAAAASBB/9oACAEBAAEFAqF//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGxABAAEFAQAAAAAAAAAAAAAAAQARICExUXH/2gAIAQEAAT8hR8TLYDKHLP/aAAwDAQACAAMAAAAQNA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAADAAEFAAAAAAAAAAAAAAAAAREQITFBYZH/2gAIAQEAAT8QXpKwJC0xWt4dbw4Esf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c5932aa51a18ea6f9218c0253b961577/01472/code.webp 240w,
+/static/c5932aa51a18ea6f9218c0253b961577/222bd/code.webp 480w,
+/static/c5932aa51a18ea6f9218c0253b961577/620b9/code.webp 960w,
+/static/c5932aa51a18ea6f9218c0253b961577/28063/code.webp 1440w,
+/static/c5932aa51a18ea6f9218c0253b961577/b8f60/code.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c5932aa51a18ea6f9218c0253b961577/3bc27/code.jpg 240w,
+/static/c5932aa51a18ea6f9218c0253b961577/98431/code.jpg 480w,
+/static/c5932aa51a18ea6f9218c0253b961577/b3ee8/code.jpg 960w,
+/static/c5932aa51a18ea6f9218c0253b961577/b97fe/code.jpg 1440w,
+/static/c5932aa51a18ea6f9218c0253b961577/52dee/code.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c5932aa51a18ea6f9218c0253b961577/b3ee8/code.jpg&quot;
+          alt=&quot;code.jpg&quot;
+          title=&quot;code.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;해당 과목의 시간표를 누르면 과제실 or 자료실의 코드를 &lt;br&gt;부여받은 후 입장하실 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b2eb5fa9edc057fb0997d710a69514ce/52dee/upload.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.758661887694146%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3VQmP//EABcQAQADAAAAAAAAAAAAAAAAAAEQESD/2gAIAQEAAQUCSKx//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERIEFRYf/aAAgBAQABPyFmCOIhqn//2gAMAwEAAgADAAAAEGAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBAAAgEFAQAAAAAAAAAAAAAAAREAICFRYZGx/9oACAEBAAE/EGGQWEDFt4TS5R//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b2eb5fa9edc057fb0997d710a69514ce/01472/upload.webp 240w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/222bd/upload.webp 480w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/620b9/upload.webp 960w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/28063/upload.webp 1440w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/b8f60/upload.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b2eb5fa9edc057fb0997d710a69514ce/3bc27/upload.jpg 240w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/98431/upload.jpg 480w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/b3ee8/upload.jpg 960w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/b97fe/upload.jpg 1440w,
+/static/b2eb5fa9edc057fb0997d710a69514ce/52dee/upload.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b2eb5fa9edc057fb0997d710a69514ce/b3ee8/upload.jpg&quot;
+          alt=&quot;upload.jpg&quot;
+          title=&quot;upload.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;과제실에서는 업로드 버튼을 눌러 과제를 업로드 할 수 있으며, 자료실에서는 교수님이 올려 놓은 수업자료를 다운받을 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/560f99a72c0e551a1d66a60d3decc90c/52dee/dday.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.758661887694146%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3pQmP//EABYQAAMAAAAAAAAAAAAAAAAAABARIP/aAAgBAQABBQIKP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAAIDAQAAAAAAAAAAAAAAAAABESBhUf/aAAgBAQABPyFrCMRDlP/aAAwDAQACAAMAAAAQYA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAACAQUBAAAAAAAAAAAAAAABEQAgITFhgZH/2gAIAQEAAT8QBZAYuOiml5R//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/560f99a72c0e551a1d66a60d3decc90c/01472/dday.webp 240w,
+/static/560f99a72c0e551a1d66a60d3decc90c/222bd/dday.webp 480w,
+/static/560f99a72c0e551a1d66a60d3decc90c/620b9/dday.webp 960w,
+/static/560f99a72c0e551a1d66a60d3decc90c/28063/dday.webp 1440w,
+/static/560f99a72c0e551a1d66a60d3decc90c/b8f60/dday.webp 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/560f99a72c0e551a1d66a60d3decc90c/3bc27/dday.jpg 240w,
+/static/560f99a72c0e551a1d66a60d3decc90c/98431/dday.jpg 480w,
+/static/560f99a72c0e551a1d66a60d3decc90c/b3ee8/dday.jpg 960w,
+/static/560f99a72c0e551a1d66a60d3decc90c/b97fe/dday.jpg 1440w,
+/static/560f99a72c0e551a1d66a60d3decc90c/52dee/dday.jpg 1674w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/560f99a72c0e551a1d66a60d3decc90c/b3ee8/dday.jpg&quot;
+          alt=&quot;dday.jpg&quot;
+          title=&quot;dday.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;교수님은 직접 과제의 마감일을 설정할 수 있으며 마감일이 &lt;br&gt;지난 후에는 과제를 업로드할 수 없습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>
