@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jan 2021 07:46:44 GMT</lastBuildDate><item><title><![CDATA[COCOBANK 블록 체인 가상 화폐 거래 플랫폼]]></title><description><![CDATA[Vue를 활용한 블록 체인 가상 화폐 디지털 금융 플랫폼 반응형 웹입니다. ]]></description><link>https://jeongjihyo.github.io/posts/cocobank-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/cocobank-webpage/</guid><pubDate>Tue, 03 Nov 2020 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio by Jihyo Jeong]]></title><description><![CDATA[Portfolio by Jihyo Jeong]]></description><link>https://jeongjihyo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jan 2021 09:03:41 GMT</lastBuildDate><item><title><![CDATA[COCOBANK 블록 체인 가상 화폐 거래소 플랫폼]]></title><description><![CDATA[Vue를 활용한 블록 체인 가상 화폐 디지털 금융 거래소 플랫폼 반응형 웹입니다. ]]></description><link>https://jeongjihyo.github.io/posts/cocobank-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/cocobank-webpage/</guid><pubDate>Tue, 03 Nov 2020 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;Date : 2020.11 - 2020.12&lt;/li&gt;
-&lt;li&gt;Role : 유지보수 및 버그, 에러제거, 화면 리뉴얼&lt;/li&gt;
+&lt;li&gt;Date : 2020.11 - 2021.01.04&lt;/li&gt;
+&lt;li&gt;Role : 유지보수 및 버그, 에러 제거, 화면 리뉴얼&lt;/li&gt;
 &lt;li&gt;Skill : Vue, REST API, JavaScript, MySQL, Axios, HTML, CSS, SCSS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
@@ -52,154 +52,13 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;br&gt;
-&lt;p&gt;Vue를 활용한 블록 체인 가상 화폐 디지털 금융 플랫폼 반응형 웹입니다.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/52dee/web_1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHeJSWMX//EABcQAQEBAQAAAAAAAAAAAAAAAAECEBL/2gAIAQEAAQUC1kXic//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAABAAITH/2gAIAQEABj8CbmH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREQIWFR/9oACAEBAAE/IZwnCLw0BdYCUUR//9oADAMBAAIAAwAAABCjD//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/EKf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAQQDAAAAAAAAAAAAAAABABExQZEhUWH/2gAIAQEAAT8QRWx4zAmGoMWahZFR5bdsAgoBQJ//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/01472/web_1.webp 240w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/222bd/web_1.webp 480w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/620b9/web_1.webp 960w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/28063/web_1.webp 1440w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/b8f60/web_1.webp 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/3bc27/web_1.jpg 240w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/98431/web_1.jpg 480w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/b3ee8/web_1.jpg 960w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/b97fe/web_1.jpg 1440w,
-/static/b29247ed4db6ec4ee0879d38d12060c2/52dee/web_1.jpg 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/b29247ed4db6ec4ee0879d38d12060c2/b3ee8/web_1.jpg&quot;
-          alt=&quot;web_1.jpg&quot;
-          title=&quot;web_1.jpg&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;부서관리 / 직원관리 / 결제 / My 네가지 탭으로 나뉘어져 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/24c9b2fe0603483465d9f6507107b67c/52dee/web_2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHeFWBhIv8A/8QAGRABAAIDAAAAAAAAAAAAAAAAAQACAxAR/9oACAEBAAEFAt5FJR7Wf//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwF0f//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAABABEf/aAAgBAQAGPwJmP//EABoQAQACAwEAAAAAAAAAAAAAAAEAERAxUWH/2gAIAQEAAT8halHko5BbIgLvH//aAAwDAQACAAMAAAAQOA//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QSB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCn/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAEFFhgZH/2gAIAQEAAT8QAlD3jozxvmYoK9XIfVazj//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/24c9b2fe0603483465d9f6507107b67c/01472/web_2.webp 240w,
-/static/24c9b2fe0603483465d9f6507107b67c/222bd/web_2.webp 480w,
-/static/24c9b2fe0603483465d9f6507107b67c/620b9/web_2.webp 960w,
-/static/24c9b2fe0603483465d9f6507107b67c/28063/web_2.webp 1440w,
-/static/24c9b2fe0603483465d9f6507107b67c/b8f60/web_2.webp 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/24c9b2fe0603483465d9f6507107b67c/3bc27/web_2.jpg 240w,
-/static/24c9b2fe0603483465d9f6507107b67c/98431/web_2.jpg 480w,
-/static/24c9b2fe0603483465d9f6507107b67c/b3ee8/web_2.jpg 960w,
-/static/24c9b2fe0603483465d9f6507107b67c/b97fe/web_2.jpg 1440w,
-/static/24c9b2fe0603483465d9f6507107b67c/52dee/web_2.jpg 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/24c9b2fe0603483465d9f6507107b67c/b3ee8/web_2.jpg&quot;
-          alt=&quot;web_2.jpg&quot;
-          title=&quot;web_2.jpg&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;카드등록 후 결제시 등록된 카드로 결제가 됩니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/52dee/web_3.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.10872162485066%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAezY0CQ//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECEgMx/9oACAEBAAEFAt2xvojdC9qnSP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAAQITER/9oACAEBAAY/AtW11cf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABARITH/2gAIAQEAAT8hEAJYDqSvwR6TIPSv/9oADAMBAAIAAwAAABBgz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQADAAAAAAAAAAAAAAERACFRYZH/2gAIAQEAAT8QcqOBDHhSwUN7nwzeUSj4waUaEDuk4b//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/01472/web_3.webp 240w,
-/static/b2031e425de12c4de3e0d87eedf9d494/222bd/web_3.webp 480w,
-/static/b2031e425de12c4de3e0d87eedf9d494/620b9/web_3.webp 960w,
-/static/b2031e425de12c4de3e0d87eedf9d494/28063/web_3.webp 1440w,
-/static/b2031e425de12c4de3e0d87eedf9d494/b8f60/web_3.webp 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/3bc27/web_3.jpg 240w,
-/static/b2031e425de12c4de3e0d87eedf9d494/98431/web_3.jpg 480w,
-/static/b2031e425de12c4de3e0d87eedf9d494/b3ee8/web_3.jpg 960w,
-/static/b2031e425de12c4de3e0d87eedf9d494/b97fe/web_3.jpg 1440w,
-/static/b2031e425de12c4de3e0d87eedf9d494/52dee/web_3.jpg 1674w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/b2031e425de12c4de3e0d87eedf9d494/b3ee8/web_3.jpg&quot;
-          alt=&quot;web_3.jpg&quot;
-          title=&quot;web_3.jpg&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;IONIC4 Components 중 ion-action-sheet를 활용해 부서 클릭 시 나타납니다.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Vue를 활용한 블록 체인 가상 화폐 디지털 금융 거래소 플랫폼 반응형 웹입니다.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://cocobnk.com/home&quot; target=&quot;_blank&quot;&gt; &gt; COCOBANK 홈페이지&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cocobnk.com/home&quot; target=&quot;_blank&quot;&gt; &gt; COCOBANK 거래소 홈페이지&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://cocofx.com/&quot; target=&quot;_blank&quot;&gt; &gt; 회사 소개 홈페이지&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Colleague 관리자용 웹페이지]]></title><description><![CDATA[IONIC4와 Angular6, GraphQL을 활용한 Colleague 관리자용 버전으로 회사의 각 부서 및 부서원을 그룹별로 관리 할 수 있습니다. ]]></description><link>https://jeongjihyo.github.io/posts/colleague-admin-webpage/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/colleague-admin-webpage/</guid><pubDate>Mon, 01 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2019.04 - 2019.06&lt;/li&gt;
@@ -754,192 +613,6 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[ 지도보기 ] 버튼을 눌러 위치를 확인 할 수 있습니다. &lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[바이너리 코딩버스 타요 앱]]></title><description><![CDATA[Unity 3D와 C#을 활용하여 코딩교육 개념과 논리 사고 능력 향상 게임입니다.]]></description><link>https://jeongjihyo.github.io/posts/Codingbus-Tayo/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Codingbus-Tayo/</guid><pubDate>Fri, 01 Apr 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Date : 2016.04 - 2016.06&lt;/li&gt;
-&lt;li&gt;Role : 아이디어 구상 및 구체화, 화면 구성 및 UI/UX 디자인, 애니메이션, 개발&lt;/li&gt;
-&lt;li&gt;Skill : Unity 3D, C#, Javascript, Photoshop
-&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//aAAwDAQACEAMQAAABtVZrMEE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEgMTIf/aAAgBAQABBQLbYlwsuBCoxJaOvf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFkf//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8B1cv/xAAaEAABBQEAAAAAAAAAAAAAAAABABARITEC/9oACAEBAAY/AosrGJ51Cbb/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVFB/9oACAEBAAE/IYVQ8mC8PcNY0+3EhyO8wEwlwc/S87//2gAMAwEAAgADAAAAEMcf/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQMBAT8QWJwtw//EABgRAQADAQAAAAAAAAAAAAAAAAEAESGR/9oACAECAQE/EENt9Ym1P//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExUWFxkbH/2gAIAQEAAT8QeeBNmzv7l2VEFA+cT4VUTl8Z1pS+l1rFKS1tN/frIlUARU9Z/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/01472/2.webp 240w,
-/static/fcae114fa378ec294e2bbae5227444a6/222bd/2.webp 480w,
-/static/fcae114fa378ec294e2bbae5227444a6/2d91e/2.webp 803w&quot;
-          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/3bc27/2.jpg 240w,
-/static/fcae114fa378ec294e2bbae5227444a6/98431/2.jpg 480w,
-/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg 803w&quot;
-          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
-          alt=&quot;2.JPG&quot;
-          title=&quot;2.JPG&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;바이너리 코딩버스 타요 Main 화면&lt;/em&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;p&gt;2018년부터 정부의 코딩 의무 교육(중·고등학교 SW교육 의무화) 에 대비하여 초등학교 저학년부터 고학년 학생들을 대상으로 하는 “코딩교육 개념“ 과 “논리 사고 능력 향상 “ Unity 3D와 C#을 활용해 만든 게임입니다. 아이들이 좋아하는 게임으로 코딩교육에 대한 “흥미유발 “ 과 “ 학습효과 “어려운 코딩 개념 재미있는 게임으로 접목시켰습니다.&lt;/p&gt;
-&lt;p&gt;Unity Asset Store에 등록되어 있는 3D 모델을 다운받아 아이들이 좋아할 수 있도록 강아지 모델을 사용했습니다. 캐릭터에 움직일 수 있는 애니메이션을 적용해 키보드 A(오른쪽), D(왼쪽), W(직진), S(후진)으로 움직일 수 있습니다. 메인화면에는 게임시작, 게임소개, 만든 사람들, 게임종료 메뉴로 나뉘어져 있습니다. &lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 55.748373101952275%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABRtcy5vLI/wD/xAAbEAACAwADAAAAAAAAAAAAAAABAgMREgAiMv/aAAgBAQABBQJDsa4ZWt+scXtwL//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8BrX//xAAaEAACAgMAAAAAAAAAAAAAAAAAASExEBEi/9oACAEBAAY/AqNFI5jChUf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhQVExYXH/2gAIAQEAAT8hfDhRobrolLBVU4YGcfRSCzQ//9oADAMBAAIAAwAAABDc3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxACLZf/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/ELom2n//xAAZEAEBAQEBAQAAAAAAAAAAAAABESEAgTH/2gAIAQEAAT8QXUAaC+vF1dOLN9vFAgxVfvMQBbib0hcz484CQWHXe//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/01472/3.webp 240w,
-/static/8511a2e04c58ba7e793567d777d1d7cc/222bd/3.webp 480w,
-/static/8511a2e04c58ba7e793567d777d1d7cc/3a1b5/3.webp 922w&quot;
-          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/3bc27/3.jpg 240w,
-/static/8511a2e04c58ba7e793567d777d1d7cc/98431/3.jpg 480w,
-/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg 922w&quot;
-          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
-          alt=&quot;3.JPG&quot;
-          title=&quot;3.JPG&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[ 게임 시작 ]버튼을 누르면 수행해야 할 미션이 뜹니다.&lt;/p&gt;
-&lt;br&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 55.53145336225597%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABbXi9Ewkj/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECEgMRITL/2gAIAQEAAQUCxzsy8meTfFNpf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8BW1v/xAAZEAACAwEAAAAAAAAAAAAAAAAAAREhMaH/2gAIAQEABj8CtGcMKGKGf//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExgf/aAAgBAQABPyFT4VDi4oy4NJbyIIqHkV0hdQVP/9oADAMBAAIAAwAAABCUD//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBUIj//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EEZHm3//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhQTGx/9oACAEBAAE/EDsqXJYnL3BuARgBwdnlRY44/gz61B/N9KAgG//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/01472/4.webp 240w,
-/static/ecd9228fa461a0d746400dba34ddf1ee/222bd/4.webp 480w,
-/static/ecd9228fa461a0d746400dba34ddf1ee/3a1b5/4.webp 922w&quot;
-          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/3bc27/4.jpg 240w,
-/static/ecd9228fa461a0d746400dba34ddf1ee/98431/4.jpg 480w,
-/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg 922w&quot;
-          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
-          alt=&quot;4.JPG&quot;
-          title=&quot;4.JPG&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;미션을 수행하면 조금 더 쉽게 이해할 수 있도록 코딩에 대한 설명이 나옵니다. &lt;/p&gt;
-&lt;br&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaZErOP/xAAVEAEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAQABBQJr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/Air/AP/EABoQAQADAAMAAAAAAAAAAAAAAAEAETEQYXH/2gAIAQEAAT8hBTQO54JbHRUzj//aAAwDAQACAAMAAAAQ1M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qyq//xAAcEAEBAQABBQAAAAAAAAAAAAABEQAxIUFRYYH/2gAIAQEAAT8QYMDGo0p2872GgDh06JzzcNBh9N//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/01472/1.webp 240w,
-/static/e304773914dd4afdfd947b2541074736/222bd/1.webp 480w,
-/static/e304773914dd4afdfd947b2541074736/2d91e/1.webp 803w&quot;
-          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/3bc27/1.jpg 240w,
-/static/e304773914dd4afdfd947b2541074736/98431/1.jpg 480w,
-/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg 803w&quot;
-          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
-          alt=&quot;1.JPG&quot;
-          title=&quot;1.JPG&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;게임을 단계별로 진행할 수 있습니다.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[What Day 기념일 카운트 앱]]></title><description><![CDATA[Android Studio와 Java를 활용하여 중요한 기념일을 잊어버리지 않기 위한 날짜 카운트 앱입니다.]]></description><link>https://jeongjihyo.github.io/posts/What-Day/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/What-Day/</guid><pubDate>Fri, 01 Apr 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2016.04 - 2016.06&lt;/li&gt;
@@ -1171,6 +844,192 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;카카오톡으로 기념일과 남은 일수를 전송할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[바이너리 코딩버스 타요 앱]]></title><description><![CDATA[Unity 3D와 C#을 활용하여 코딩교육 개념과 논리 사고 능력 향상 게임입니다.]]></description><link>https://jeongjihyo.github.io/posts/Codingbus-Tayo/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Codingbus-Tayo/</guid><pubDate>Fri, 01 Apr 2016 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2016.04 - 2016.06&lt;/li&gt;
+&lt;li&gt;Role : 아이디어 구상 및 구체화, 화면 구성 및 UI/UX 디자인, 애니메이션, 개발&lt;/li&gt;
+&lt;li&gt;Skill : Unity 3D, C#, Javascript, Photoshop
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//aAAwDAQACEAMQAAABtVZrMEE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEgMTIf/aAAgBAQABBQLbYlwsuBCoxJaOvf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFkf//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8B1cv/xAAaEAABBQEAAAAAAAAAAAAAAAABABARITEC/9oACAEBAAY/AosrGJ51Cbb/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVFB/9oACAEBAAE/IYVQ8mC8PcNY0+3EhyO8wEwlwc/S87//2gAMAwEAAgADAAAAEMcf/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQMBAT8QWJwtw//EABgRAQADAQAAAAAAAAAAAAAAAAEAESGR/9oACAECAQE/EENt9Ym1P//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExUWFxkbH/2gAIAQEAAT8QeeBNmzv7l2VEFA+cT4VUTl8Z1pS+l1rFKS1tN/frIlUARU9Z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/01472/2.webp 240w,
+/static/fcae114fa378ec294e2bbae5227444a6/222bd/2.webp 480w,
+/static/fcae114fa378ec294e2bbae5227444a6/2d91e/2.webp 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/fcae114fa378ec294e2bbae5227444a6/3bc27/2.jpg 240w,
+/static/fcae114fa378ec294e2bbae5227444a6/98431/2.jpg 480w,
+/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/fcae114fa378ec294e2bbae5227444a6/2f29a/2.jpg&quot;
+          alt=&quot;2.JPG&quot;
+          title=&quot;2.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;바이너리 코딩버스 타요 Main 화면&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;2018년부터 정부의 코딩 의무 교육(중·고등학교 SW교육 의무화) 에 대비하여 초등학교 저학년부터 고학년 학생들을 대상으로 하는 “코딩교육 개념“ 과 “논리 사고 능력 향상 “ Unity 3D와 C#을 활용해 만든 게임입니다. 아이들이 좋아하는 게임으로 코딩교육에 대한 “흥미유발 “ 과 “ 학습효과 “어려운 코딩 개념 재미있는 게임으로 접목시켰습니다.&lt;/p&gt;
+&lt;p&gt;Unity Asset Store에 등록되어 있는 3D 모델을 다운받아 아이들이 좋아할 수 있도록 강아지 모델을 사용했습니다. 캐릭터에 움직일 수 있는 애니메이션을 적용해 키보드 A(오른쪽), D(왼쪽), W(직진), S(후진)으로 움직일 수 있습니다. 메인화면에는 게임시작, 게임소개, 만든 사람들, 게임종료 메뉴로 나뉘어져 있습니다. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.748373101952275%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABRtcy5vLI/wD/xAAbEAACAwADAAAAAAAAAAAAAAABAgMREgAiMv/aAAgBAQABBQJDsa4ZWt+scXtwL//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8BrX//xAAaEAACAgMAAAAAAAAAAAAAAAAAASExEBEi/9oACAEBAAY/AqNFI5jChUf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhQVExYXH/2gAIAQEAAT8hfDhRobrolLBVU4YGcfRSCzQ//9oADAMBAAIAAwAAABDc3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxACLZf/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/ELom2n//xAAZEAEBAQEBAQAAAAAAAAAAAAABESEAgTH/2gAIAQEAAT8QXUAaC+vF1dOLN9vFAgxVfvMQBbib0hcz484CQWHXe//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/01472/3.webp 240w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/222bd/3.webp 480w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/3a1b5/3.webp 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/3bc27/3.jpg 240w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/98431/3.jpg 480w,
+/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/8511a2e04c58ba7e793567d777d1d7cc/92284/3.jpg&quot;
+          alt=&quot;3.JPG&quot;
+          title=&quot;3.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ 게임 시작 ]버튼을 누르면 수행해야 할 미션이 뜹니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.53145336225597%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABbXi9Ewkj/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECEgMRITL/2gAIAQEAAQUCxzsy8meTfFNpf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8BW1v/xAAZEAACAwEAAAAAAAAAAAAAAAAAAREhMaH/2gAIAQEABj8CtGcMKGKGf//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExgf/aAAgBAQABPyFT4VDi4oy4NJbyIIqHkV0hdQVP/9oADAMBAAIAAwAAABCUD//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBUIj//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EEZHm3//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhQTGx/9oACAEBAAE/EDsqXJYnL3BuARgBwdnlRY44/gz61B/N9KAgG//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/01472/4.webp 240w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/222bd/4.webp 480w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/3a1b5/4.webp 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/3bc27/4.jpg 240w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/98431/4.jpg 480w,
+/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg 922w&quot;
+          sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/ecd9228fa461a0d746400dba34ddf1ee/92284/4.jpg&quot;
+          alt=&quot;4.JPG&quot;
+          title=&quot;4.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;미션을 수행하면 조금 더 쉽게 이해할 수 있도록 코딩에 대한 설명이 나옵니다. &lt;/p&gt;
+&lt;br&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.00996264009963%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaZErOP/xAAVEAEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAQABBQJr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/Air/AP/EABoQAQADAAMAAAAAAAAAAAAAAAEAETEQYXH/2gAIAQEAAT8hBTQO54JbHRUzj//aAAwDAQACAAMAAAAQ1M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qyq//xAAcEAEBAQABBQAAAAAAAAAAAAABEQAxIUFRYYH/2gAIAQEAAT8QYMDGo0p2872GgDh06JzzcNBh9N//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/01472/1.webp 240w,
+/static/e304773914dd4afdfd947b2541074736/222bd/1.webp 480w,
+/static/e304773914dd4afdfd947b2541074736/2d91e/1.webp 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e304773914dd4afdfd947b2541074736/3bc27/1.jpg 240w,
+/static/e304773914dd4afdfd947b2541074736/98431/1.jpg 480w,
+/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e304773914dd4afdfd947b2541074736/2f29a/1.jpg&quot;
+          alt=&quot;1.JPG&quot;
+          title=&quot;1.JPG&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;게임을 단계별로 진행할 수 있습니다.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[ZOMBIE ATTACK 1인용 FPS 총 게임]]></title><description><![CDATA[Unity 3D와 C#을 활용하여 좀비를 피해 총으로 맞춰 살아남는 1인용 FPS총 게임입니다.]]></description><link>https://jeongjihyo.github.io/posts/Zombie-Attack/</link><guid isPermaLink="false">https://jeongjihyo.github.io/posts/Zombie-Attack/</guid><pubDate>Sun, 01 Nov 2015 22:40:32 GMT</pubDate><content:encoded>&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Date : 2015.11 - 2015.12&lt;/li&gt;
